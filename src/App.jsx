@@ -12,12 +12,16 @@ function App() {
   const [timeOut, setTimeOut] = useState(false);
   const [questionNumber, setQuestionNumber] = useState(1);
   const [earned, setEarned] = useState("Chúc May Mắn Lần Sau!");
-  const [questions] = useState(triviaQuestions);  // Use the imported JSON file directly
+  const [questions] = useState(triviaQuestions); // Use the imported JSON file directly
 
-  // Shuffle function for randomizing questions
-  const shuffleArray = (array) => array.sort(() => Math.random() - 0.5);
+  // Shuffle answers for each question
+  const shuffleAnswers = (questions) =>
+    questions.map((question) => ({
+      ...question,
+      answers: question.answers.sort(() => Math.random() - 0.5),
+    }));
 
-  const shuffledData = useMemo(() => shuffleArray([...questions]), [questions]);
+  const shuffledData = useMemo(() => shuffleAnswers([...questions]), [questions]);
 
   const moneyPyramid = useMemo(
     () =>

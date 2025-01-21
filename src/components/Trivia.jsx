@@ -25,10 +25,14 @@ export default function Trivia({
     setQuestion(data[questionNumber - 1]);
   }, [data, questionNumber]);
 
-  // Randomize the answers while keeping the correct answer intact
   const shuffledAnswers = useMemo(() => {
     if (!question) return [];
-    return [...question.answers].sort(() => Math.random() - 0.5); // Shuffle the answers
+    return question.answers
+      .map((answer) => ({
+        text: answer,
+        correct: answer === question.correctAnswer,
+      }))
+      .sort(() => Math.random() - 0.5);
   }, [question]);
 
   const delay = (duration, callback) => {
