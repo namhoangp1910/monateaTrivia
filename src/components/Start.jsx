@@ -11,11 +11,11 @@ export default function Start({ setUsername }) {
     <div className="start">
       <input
         className="startInput"
-        placeholder="enter your name"
+        placeholder="Nhập Tên Quý Khách"
         ref={inputRef}
       />
       <button className="startButton" onClick={handleClick}>
-        Start
+        Bắt Đầu Chơi
       </button>
     </div>
   );

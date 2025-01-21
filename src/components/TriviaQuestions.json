@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "question": "Monatea Cafe có diện tích tổng cộng là bao nhiêu?",
+    "answers": [
+      { "text": "100m²", "correct": false },
+      { "text": "330m²", "correct": false },
+      { "text": "175m²", "correct": false },
+      { "text": "198m²", "correct": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ai là người thiết kế logo của Monatea Cafe?",
+    "answers": [
+      { "text": "Một Designer quen thiết kế logo", "correct": true },
+      { "text": "Một người thân của chủ quán", "correct": false },
+      { "text": "Một công ty thiết kế chuyên nghiệp", "correct": false },
+      { "text": "Chủ quán tự thiết kế", "correct": false }
+    ]
+  },
+
+  {
+    "id": 3,
+    "question": "Quán Monatea Cafe mở cửa vào giờ nào??",
+    "answers": [
+      { "text": "6:00 AM - 10:00 PM", "correct": true },
+      { "text": "7:00 AM - 9:00 PM", "correct": false },
+      { "text": "9:00 AM - 11:00 PM", "correct": false },
+      { "text": "10:00 AM - 9:00 PM", "correct": false }
+    ]
+  },
+
+  {
+    "id": 4,
+    "question": "Trà sữa là thức uống nổi tiếng ở đâu?",
+    "answers": [
+      { "text": "Việt Nam", "correct": false },
+      { "text": "Đài Loan", "correct": true },
+      { "text": "Trung Quốc", "correct": false },
+      { "text": "Nhật Bản", "correct": false }
+    ]
+  },
+
+  {
+    "id": 5,
+    "question": "Monatea Cafe có món trà nào đặc biệt?",
+    "answers": [
+      { "text": "Trà oolong", "correct": false },
+      { "text": "Trà đen", "correct": false },
+      { "text": "Trà hoa cúc", "correct": false },
+      { "text": "Trà chuối matcha", "correct": true }
+    ]
+  },
+
+
+    {
+      "id": 6,
+      "question": "Cà phê espresso là gì?",
+      "answers": [
+        { "text": "Cà phê đen nguyên chất", "correct": true },
+        { "text": "Cà phê có sữa", "correct": false },
+        { "text": "Cà phê lạnh", "correct": false },
+        { "text": "Cà phê với đường", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Thức uống nào không phải là món phổ biến tại Monatea Cafe?",
+      "answers": [
+        { "text": "Trà sữa trân châu", "correct": false },
+        { "text": "Cà phê cappuccino", "correct": false },
+        { "text": "Trà hoa quả", "correct": false },
+        { "text": "Nước ép cam", "correct": true }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Trà sữa được làm từ nguyên liệu chính nào?",
+      "answers": [
+        { "text": "Sữa tươi", "correct": false },
+        { "text": "Trà đen", "correct": true },
+        { "text": "Trà xanh", "correct": false },
+        { "text": "Sữa đặc", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Monatea Cafe có bao nhiêu loại trà sữa?",
+      "answers": [
+        { "text": "3 loại", "correct": false },
+        { "text": "5 loại", "correct": true },
+        { "text": "7 loại", "correct": false },
+        { "text": "10 loại", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quán Monatea Cafe có phục vụ đồ ăn nhẹ không?",
+      "answers": [
+        { "text": "Có", "correct": true },
+        { "text": "Không", "correct": false },
+        { "text": "Chỉ vào cuối tuần", "correct": false },
+        { "text": "Chỉ vào buổi sáng", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Trà sữa trân châu của Monatea Cafe có thành phần chính là gì?",
+      "answers": [
+        { "text": "Trà đen", "correct": true },
+        { "text": "Trà xanh", "correct": false },
+        { "text": "Trà oolong", "correct": false },
+        { "text": "Trà hoa nhài", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Đồ uống nào là món đặc biệt vào mùa hè tại Monatea Cafe?",
+      "answers": [
+        { "text": "Trà sữa trái cây", "correct": true },
+        { "text": "Cà phê đá xay", "correct": false },
+        { "text": "Trà matcha latte", "correct": false },
+        { "text": "Trà hoa quả", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Monatea Cafe có cung cấp wifi miễn phí không?",
+      "answers": [
+        { "text": "Có", "correct": true },
+        { "text": "Không", "correct": false },
+        { "text": "Chỉ trong giờ vàng", "correct": false },
+        { "text": "Chỉ cho khách hàng đăng ký", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Cà phê tại Monatea Cafe được rang theo phương pháp nào?",
+      "answers": [
+        { "text": "Rang mộc", "correct": false },
+        { "text": "Đậm đà", "correct": false },
+        { "text": "Nhẹ nhàng", "correct": false },
+        { "text": "Trung bình", "correct": true }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Monatea Cafe có chương trình giảm giá cho học sinh sinh viên không?",
+      "answers": [
+        { "text": "Có", "correct": true },
+        { "text": "Không", "correct": false },
+        { "text": "Chỉ vào cuối tuần", "correct": false },
+        { "text": "Chỉ cho nhóm lớn", "correct": false }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Monatea Cafe có phục vụ cà phê pha máy không?",
+      "answers": [
+        { "text": "Có", "correct": true },
+        { "text": "Không", "correct": false },
+        { "text": "Chỉ pha sẵn", "correct": false },
+        { "text": "Chỉ pha theo yêu cầu", "correct": false }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Trà sữa trân châu tại Monatea Cafe được làm từ loại đường gì?",
+      "answers": [
+        { "text": "Đường nâu", "correct": true },
+        { "text": "Đường trắng", "correct": false },
+        { "text": "Đường cát", "correct": false },
+        { "text": "Đường mật", "correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Quán Monatea Cafe có không gian ngoài trời không?",
+      "answers": [
+        { "text": "Có", "correct": true },
+        { "text": "Không", "correct": false },
+        { "text": "Chỉ vào mùa hè", "correct": false },
+        { "text": "Chỉ buổi tối", "correct": false }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Monatea Cafe phục vụ cà phê với loại sữa nào?",
+      "answers": [
+        { "text": "Sữa tươi", "correct": true },
+        { "text": "Sữa đặc", "correct": false },
+        { "text": "Sữa hạt", "correct": false },
+        { "text": "Sữa bột", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Có bao nhiêu loại topping cho trà sữa tại Monatea Cafe?",
+      "answers": [
+        { "text": "5 loại", "correct": false },
+        { "text": "7 loại", "correct": true },
+        { "text": "10 loại", "correct": false },
+        { "text": "12 loại", "correct": false }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Món nước nào là phổ biến nhất tại Monatea Cafe?",
+      "answers": [
+        { "text": "Trà sữa", "correct": true },
+        { "text": "Trà đá", "correct": false },
+        { "text": "Trà xanh", "correct": false },
+        { "text": "Cà phê đá", "correct": false }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Monatea Cafe có phục vụ món gì vào buổi sáng?",
+      "answers": [
+        { "text": "Bánh mì", "correct": true },
+        { "text": "Bánh bao", "correct": false },
+        { "text": "Xôi", "correct": false },
+        { "text": "Bánh ngọt", "correct": false }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Tại Monatea Cafe, cà phê có thể được pha theo bao nhiêu mức độ đậm?",
+      "answers": [
+        { "text": "2 mức độ", "correct": false },
+        { "text": "3 mức độ", "correct": true },
+        { "text": "4 mức độ", "correct": false },
+        { "text": "5 mức độ", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Monatea Cafe mở cửa từ mấy giờ?",
+      "answers": [
+        { "text": "07:00", "correct": false },
+        { "text": "08:00", "correct": true },
+        { "text": "09:00", "correct": false },
+        { "text": "10:00", "correct": false }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Trà sữa tại Monatea Cafe có bao nhiêu loại trân châu?",
+      "answers": [
+        { "text": "2 loại", "correct": false },
+        { "text": "3 loại", "correct": true },
+        { "text": "4 loại", "correct": false },
+        { "text": "5 loại", "correct": false }
+      ]
+    }
+  ]

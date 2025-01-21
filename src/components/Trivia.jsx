@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import useSound from "use-sound";
 import play from "../sounds/play.mp3";
 import correct from "../sounds/correct.mp3";
@@ -25,6 +25,12 @@ export default function Trivia({
     setQuestion(data[questionNumber - 1]);
   }, [data, questionNumber]);
 
+  // Randomize the answers while keeping the correct answer intact
+  const shuffledAnswers = useMemo(() => {
+    if (!question) return [];
+    return [...question.answers].sort(() => Math.random() - 0.5); // Shuffle the answers
+  }, [question]);
+
   const delay = (duration, callback) => {
     setTimeout(() => {
       callback();
@@ -37,40 +43,30 @@ export default function Trivia({
     delay(3000, () => {
       setClassName(a.correct ? "answer correct" : "answer wrong");
     });
-    // setTimeout(() => {
-    //   setClassName(a.correct ? "answer correct" : "answer wrong");
-    // }, 3000);
 
-    // setTimeout(() => {
-      delay(5000, () => {
+    delay(5000, () => {
       if (a.correct) {
         correctAnswer();
         delay(1000, () => {
           setQuestionNumber((prev) => prev + 1);
           setSelectedAnswer(null);
         });
-        // setTimeout(() => {
-        //   setQuestionNumber((prev) => prev + 1);
-        //   setSelectedAnswer(null);
-        // }, 1000);
       } else {
         wrongAnswer();
         delay(1000, () => {
           setTimeOut(true);
         });
-        // setTimeout(() => {
-        //   setTimeOut(true);
-        // }, 1000);
       }
-    // }, 5000);
-      })
+    });
   };
+
   return (
     <div className="trivia">
       <div className="question">{question?.question}</div>
       <div className="answers">
-        {question?.answers.map((a) => (
+        {shuffledAnswers.map((a, index) => (
           <div
+            key={index}
             className={selectedAnswer === a ? className : "answer"}
             onClick={() => !selectedAnswer && handleClick(a)}
           >
