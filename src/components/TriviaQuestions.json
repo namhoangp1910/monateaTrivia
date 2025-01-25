@@ -17,7 +17,7 @@
       "Vintage hiện đại",
       "Châu Á cổ điển",
       "Châu Âu cổ điển",
-      "Tối giản"
+      "Tân tối giản "
     ],
     "correctAnswer": "Châu Âu cổ điển"
   },
@@ -25,16 +25,16 @@
     "ID": 3,
     "question": "Quán Monatea Cafe mở cửa vào giờ nào?",
     "answers": [
-      "6:00 AM - 10:00 PM",
-      "7:00 AM - 9:00 PM",
-      "9:00 AM - 11:00 PM",
-      "10:00 AM - 9:00 PM"
+      "6:15 - 23:00 ",
+      "7:00  - 23:30 ",
+      "9:00 - 23:00 ",
+      "10:00 - 21:00"
     ],
-    "correctAnswer": "6:00 AM - 10:00 PM"
+    "correctAnswer": "6:15 - 23:00 "
   },
   {
     "ID": 4,
-    "question": "Trà sữa là thức uống nổi tiếng ở đâu?",
+    "question": "Trà sữa là thức uống bắt đầu từ đâu?",
     "answers": [
       "Việt Nam",
       "Đài Loan",
@@ -47,12 +47,12 @@
     "ID": 5,
     "question": "Monatea Cafe có món trà nào đặc biệt?",
     "answers": [
-      "Trà xanh matcha",
+      "Matcha Trà Xanh",
       "Trà đen",
       "Trà hoa cúc",
       "Trà oolong"
     ],
-    "correctAnswer": "Trà xanh matcha"
+    "correctAnswer": "Matcha Trà Xanh"
   },
   {
     "ID": 6,
@@ -69,45 +69,45 @@
     "ID": 7,
     "question": "Thức uống nào không phải là món phổ biến tại Monatea Cafe?",
     "answers": [
-      "Trà sữa trân châu",
-      "Cà phê cappuccino",
+      "Hồng Trà",
+      "Cà phê ",
       "Trà hoa quả",
-      "Nước ép cam"
+      "Matcha Trà Xanh "
     ],
-    "correctAnswer": "Nước ép cam"
+    "correctAnswer": "Matcha Trà Xanh "
   },
   {
     "ID": 8,
-    "question": "Trà sữa được làm từ nguyên liệu chính nào?",
+    "question": "Món nước nào không có trong menu của Monatea Cafe",
     "answers": [
-      "Sữa tươi",
-      "Trà đen",
-      "Trà xanh",
-      "Sữa đặc"
+      "Matcha Dâu",
+      "Trà Sữa Nhài olong",
+      "Trà Cam Mâm Sôi",
+      "Sinh Tố Xoài"
     ],
-    "correctAnswer": "Trà đen"
+    "correctAnswer": "Trà Cam Mâm Sôi"
   },
   {
     "ID": 9,
     "question": "Monatea Cafe có bao nhiêu loại trà sữa?",
     "answers": [
-      "3 loại",
+      "4 loại",
       "5 loại",
-      "7 loại",
-      "10 loại"
+      "3 loại",
+      "2 loại"
     ],
-    "correctAnswer": "5 loại"
+    "correctAnswer": "4 loại"
   },
   {
     "ID": 10,
-    "question": "Quán Monatea Cafe có phục vụ đồ ăn nhẹ không?",
+    "question": "Monatea Cafe hiện có bao nhiêu nhân viên",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ vào cuối tuần",
-      "Chỉ vào buổi sáng"
+      "4",
+      "7",
+      "9",
+      "10"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "4"
   },
   {
     "ID": 11,
@@ -129,7 +129,7 @@
       "Trà matcha latte",
       "Trà hoa quả"
     ],
-    "correctAnswer": "Trà sữa trái cây"
+    "correctAnswer": "Trà matcha latte"
   },
   {
     "ID": 13,
@@ -144,47 +144,47 @@
   },
   {
     "ID": 14,
-    "question": "Cà phê tại Monatea Cafe được rang theo phương pháp nào?",
+    "question": "Món đặc trưng nhất của Monatea Cafe là gì",
     "answers": [
-      "Rang mộc",
-      "Đậm đà",
-      "Nhẹ nhàng",
-      "Trung bình"
+      "Sinh Tố Dâu",
+      "Trà sữa Gạo Rang Thạch Nổ",
+      "Trà Lựu Mâm Sôi",
+      "Matcha Chuối"
     ],
-    "correctAnswer": "Trung bình"
+    "correctAnswer": "Matcha Chuối"
   },
   {
     "ID": 15,
-    "question": "Monatea Cafe có chương trình giảm giá cho học sinh sinh viên không?",
+    "question": "Monatea Cafe có chương trình giảm giá cho học sinh và sinh viên không?",
     "answers": [
       "Có",
       "Không",
-      "Chỉ vào cuối tuần",
-      "Chỉ cho nhóm lớn"
+      "Chỉ vào ngày trong tuần",
+      "Chỉ cho nhóm đông người"
     ],
     "correctAnswer": "Có"
   },
   {
     "ID": 16,
-    "question": "Monatea Cafe có phục vụ cà phê pha máy không?",
+    "question": "Monatea Cafe có diện tích tổng cộng là bao nhiêu",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ pha sẵn",
-      "Chỉ pha theo yêu cầu"
+      "100m²",
+      "330m²",
+      "175m²",
+      "198m²"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "198m²"
   },
   {
     "ID": 17,
-    "question": "Trà sữa trân châu tại Monatea Cafe được làm từ loại đường gì?",
+    "question": "Trà sữa tại Monatea Cafe được làm từ loại đường gì?",
     "answers": [
       "Đường nâu",
       "Đường trắng",
-      "Đường cát",
+      "Đường phèn",
       "Đường mật"
     ],
-    "correctAnswer": "Đường nâu"
+    "correctAnswer": "Đường phèn"
   },
   {
     "ID": 18,
@@ -199,14 +199,14 @@
   },
   {
     "ID": 19,
-    "question": "Monatea Cafe phục vụ cà phê với loại sữa nào?",
+    "question": "Ai là người thiết kế logo của Monatea Cafe",
     "answers": [
-      "Sữa tươi",
-      "Sữa đặc",
-      "Sữa hạt",
-      "Sữa bột"
+      "Người quen là người thiết kế logo",
+      "Một người thân của chủ quán",
+      "Một công ty thiết kế chuyên nghiệp",
+      "Chủ quán tự thiết kế"
     ],
-    "correctAnswer": "Sữa tươi"
+    "correctAnswer": "Người quen là người thiết kế logo"
   },
   {
     "ID": 20,
@@ -214,7 +214,7 @@
     "answers": [
       "5 loại",
       "7 loại",
-      "10 loại",
+      "8 loại",
       "12 loại"
     ],
     "correctAnswer": "7 loại"
@@ -225,43 +225,43 @@
     "answers": [
       "Trà sữa",
       "Trà đá",
-      "Trà xanh",
+      "Matcha",
       "Cà phê đá"
     ],
-    "correctAnswer": "Trà sữa"
+    "correctAnswer": "Matcha"
   },
   {
     "ID": 22,
-    "question": "Monatea Cafe có phục vụ món gì vào buổi sáng?",
+    "question": "Món nước nào được xem là ngon nhất tại quán Monatea Cafe",
     "answers": [
-      "Bánh mì",
-      "Bánh bao",
-      "Xôi",
-      "Bánh ngọt"
+      "Matcha và trà sữa",
+      "Cà phê đen",
+      "Trà đào cam sả",
+      "Nước ép trái cây"
     ],
-    "correctAnswer": "Bánh mì"
+    "correctAnswer": "Matcha và trà sữa"
   },
   {
     "ID": 23,
-    "question": "Tại Monatea Cafe, cà phê có thể được pha theo bao nhiêu mức độ đậm?",
+    "question": "Đồng phục của nhân viên Monatea Cafe có màu gì",
     "answers": [
-      "2 mức độ",
-      "3 mức độ",
-      "4 mức độ",
-      "5 mức độ"
+      "Xanh Lá Cây",
+      "Xanh Bơ",
+      "Xanh Cốm",
+      "Xanh Rêu"
     ],
-    "correctAnswer": "3 mức độ"
+    "correctAnswer": "Xanh Cốm"
   },
   {
     "ID": 24,
     "question": "Monatea Cafe mở cửa từ mấy giờ?",
     "answers": [
-      "07:00",
+      "06:15",
       "08:00",
       "09:00",
       "10:00"
     ],
-    "correctAnswer": "08:00"
+    "correctAnswer": "06:15"
   },
   {
     "ID": 25,
@@ -276,35 +276,837 @@
   },
   {
     "ID": 26,
-    "question": "Monatea Cafe có chương trình quà tặng cho khách hàng thân thiết không?",
+    "question": "Món \"matcha\" của quán\nMonatea có thành phần chính nào?",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ vào dịp lễ",
-      "Chỉ cho nhóm lớn"
+      "Matcha, sữa tươi, kem béo",
+      "Matcha, xoài",
+      "Matcha, đậu đỏ",
+      "Matcha, kem tươi"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "Matcha, sữa tươi, kem béo"
   },
   {
     "ID": 27,
-    "question": "Monatea Cafe có phục vụ các loại trà không chứa caffeine không?",
+    "question": "Trà sữa nhài của Monatea được kết hợp với loại topping nào?",
+    "answers": [
+      "Trân châu oolong",
+      "Thạch nổ",
+      "Trân châu hoàng kim",
+      "Trân châu gạo rang"
+    ],
+    "correctAnswer": "Trân châu oolong"
+  },
+  {
+    "ID": 28,
+    "question": "Matcha chuối là sự kết hợp của bột matcha và",
+    "answers": [
+      "Sữa tươi, chuối tươi",
+      "Siro và mứt ",
+      "Chất tạo hương vị﻿",
+      "Bột chuối và kem béo"
+    ],
+    "correctAnswer": "Sữa tươi, chuối tươi"
+  },
+  {
+    "ID": 29,
+    "question": "Trà sữa hoàng kim của quán\nMonatea có màu sắc đặc trưng nhờ vào nguyên liệu nào?",
+    "answers": [
+      "Đường nâu",
+      "Trân châu",
+      "Matcha",
+      "Gạo rang"
+    ],
+    "correctAnswer": "Đường nâu"
+  },
+  {
+    "ID": 30,
+    "question": "Trong số các món matcha của quán, món nào có sự kết hợp với trái cây nhiệt đới",
+    "answers": [
+      "Matcha dâu",
+      "Matcha chuối",
+      "Matcha xoài",
+      "Matcha latte"
+    ],
+    "correctAnswer": "Matcha xoài"
+  },
+  {
+    "ID": 31,
+    "question": "Monatea Cafe thường dùng loại trà nào để làm trà sữa matcha?",
+    "answers": [
+      "Trà oolong",
+      "Trà xanh",
+      "Trà đen",
+      "Trà nhài"
+    ],
+    "correctAnswer": "Trà nhài"
+  },
+  {
+    "ID": 32,
+    "question": "Nếu khách muốn một món nước vừa có vị ngọt thanh của trà sữa, vừa có vị gạo rang, món nào phù hợp nhất?",
+    "answers": [
+      "Trà sữa matcha trân châu gạo rang",
+      "Trà sữa nhài trân châu oolong",
+      "Trà sữa gạo rang thạch nổ",
+      "Matcha latte"
+    ],
+    "correctAnswer": "Trà sữa gạo rang thạch nổ"
+  },
+  {
+    "ID": 33,
+    "question": "Topping đặc trưng nào xuất hiện nhiều trong menu của Monatea Cafe",
+    "answers": [
+      "Trân châu oolong",
+      "Thạch nổ",
+      "Trân châu hoàng kim",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 34,
+    "question": "Tên gọi \"trân châu hoàng kim\" xuất phát từ đặc điểm gì?",
+    "answers": [
+      "Vị ngọt đặc trưng từ mật ong",
+      "Hạt trân châu có màu vàng như kim loại",
+      "Là loại topping cao cấp thường dùng trong trà sữa",
+      "Cả A và B"
+    ],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "ID": 35,
+    "question": "Trà sữa nhài trân châu oolong của Monatea có đặc tính gì?",
+    "answers": [
+      "Vị đắng đậm, thơm nhẹ",
+      "Vị chát nhẹ, hậu ngọt",
+      "Không mùi, vị nhạt",
+      "Vị trà mạnh và rất ngọt"
+    ],
+    "correctAnswer": "Vị chát nhẹ, hậu ngọt"
+  },
+  {
+    "ID": 36,
+    "question": "Monatea Cafe thường sử dụng loại trái cây nào để làm topping tự nhiên trong món matcha?",
+    "answers": [
+      "Chuối và xoài",
+      "Dâu và đậu đỏ",
+      "Cả A và B",
+      "Không có topping trái cây"
+    ],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "ID": 37,
+    "question": "Sinh tố của Monatea có topping gì",
+    "answers": [
+      "Trân châu gạo rang",
+      "Thạch nổ, thạch trắng",
+      "Đậu đỏ",
+      "Không có topping"
+    ],
+    "correctAnswer": "Không có topping"
+  },
+  {
+    "ID": 38,
+    "question": "Thạch nổ được biết đến với đặc điểm gì đặc biệt?",
+    "answers": [
+      "Có vị ngọt nhẹ và giòn",
+      "Tạo cảm giác \"nổ\" khi ăn",
+      "Làm từ nước trái cây",
+      "Cả A và B"
+    ],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "ID": 39,
+    "question": "Monatea Cafe có gì đặc biệt dành cho khách hàng yêu thích nghệ thuật?",
+    "answers": [
+      "Xem Phim netflix",
+      "Góc tổ chức các sự kiện nhỏ",
+      "Không gian trang trí tượng và tranh ảnh vintage",
+      "Cả A và B"
+    ],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "ID": 40,
+    "question": "Monatea Cafe có sức chứa bao nhiêu khách?",
+    "answers": [
+      "10-30 người",
+      "20-30 người",
+      "30-50 người",
+      "60-70 người"
+    ],
+    "correctAnswer": "30-50 người"
+  },
+  {
+    "ID": 41,
+    "question": "Monatea Cafe có máy chiếu để làm gì?",
+    "answers": [
+      "Trình chiếu menu",
+      "Chiếu phim hoặc sự kiện đặc biệt",
+      "Làm ánh sáng cho quán",
+      "Trình bày thông báo"
+    ],
+    "correctAnswer": "Chiếu phim hoặc sự kiện đặc biệt"
+  },
+  {
+    "ID": 42,
+    "question": "Trà sữa hoàng kim của Monatea có đặc tính gì?",
+    "answers": [
+      "Đậm vị trà, ngọt",
+      "Vị đắng đậm, thơm nhẹ",
+      "Vị chát nhẹ, hậu ngọt",
+      "Thơm trà, hậu đắng"
+    ],
+    "correctAnswer": "Đậm vị trà, ngọt"
+  },
+  {
+    "ID": 43,
+    "question": "Loại trà nào thường được dùng để làm trà trái cây?",
+    "answers": [
+      "Trà đen",
+      "Trà ô long",
+      "Trà xanh",
+      "Trà hoa nhài"
+    ],
+    "correctAnswer": "Trà đen"
+  },
+  {
+    "ID": 44,
+    "question": "Loại topping “trân châu hoàng kim” có màu gì?",
+    "answers": [
+      "Vàng",
+      "Đen",
+      "Trắng",
+      "Hồng"
+    ],
+    "correctAnswer": "Vàng"
+  },
+  {
+    "ID": 45,
+    "question": "\"Bạc xỉu\" là loại đồ uống đặc trưng của nước nào?",
+    "answers": [
+      "Việt Nam",
+      "Thái Lan",
+      "Nhật Bản",
+      "Trung Quốc"
+    ],
+    "correctAnswer": "Việt Nam"
+  },
+  {
+    "ID": 46,
+    "question": "Khi khuấy trà nguội và bột sữa hiện tượng gì xảy ra",
+    "answers": [
+      "Hoà tan với nhau",
+      "Chuyển màu vàng",
+      "Không hoà tan được",
+      "Chuyển màu nâu"
+    ],
+    "correctAnswer": "Không hoà tan được"
+  },
+  {
+    "ID": 47,
+    "question": "Ý nghĩa tên Monatea Cafe là gì ?",
+    "answers": [
+      "Theo đuổi ước mơ",
+      "Những cô gái quý tộc",
+      "Hoài niệm",
+      "Kí ức"
+    ],
+    "correctAnswer": "Những cô gái quý tộc"
+  },
+  {
+    "ID": 48,
+    "question": "Monatea sử dụng loại sữa nào cho các loại nước?",
+    "answers": [
+      "Sữa đặc ",
+      "Sữa bò tươi",
+      "Sữa bột",
+      "Sữa hạt"
+    ],
+    "correctAnswer": "Sữa bò tươi"
+  },
+  {
+    "ID": 49,
+    "question": "Monatea Cafe lần đầu khai trương thử vào ngày mấy?",
+    "answers": [
+      "Ngày 16 tháng 1",
+      "Ngày 18 tháng 1",
+      "Ngày 20 tháng 1",
+      "Ngày 25 tháng 1"
+    ],
+    "correctAnswer": "Ngày 16 tháng 1"
+  },
+  {
+    "ID": 50,
+    "question": "Bạn đã theo dõi facebook của quán Monatea chưa?",
+    "answers": [
+      "Monatea Cafe chỉ có trên Instagram",
+      "Chưa theo dõi",
+      "Đã theo dõi",
+      "Monatea chưa có "
+    ],
+    "correctAnswer": "Đã theo dõi"
+  },
+  {
+    "ID": 51,
+    "question": "Monatea khai trương chính thức vào ngày mấy?",
+    "answers": [
+      "Ngày 20 tháng 1",
+      "Ngày 22 tháng 1",
+      "Ngày 24 tháng 1",
+      "Ngày 25 tháng 1"
+    ],
+    "correctAnswer": "Ngày 25 tháng 1"
+  },
+  {
+    "ID": 52,
+    "question": "Điểm đặc biệt trong không gian của Monatea Cafe là gì?",
+    "answers": [
+      "Có màn hình chiếu phim và đèn chùm retro",
+      "Trang trí bằng màu sắc neon",
+      "Sử dụng ghế nhựa đơn giản",
+      "Kết hợp nhà kính trồng cây"
+    ],
+    "correctAnswer": "Có màn hình chiếu phim và đèn chùm retro"
+  },
+  {
+    "ID": 53,
+    "question": "Ở trong quán Monatea có bao nhiêu màu hoa?",
+    "answers": [
+      "2 màu hoa",
+      "3 màu hoa ",
+      "4 màu hoa",
+      "5 màu hoa"
+    ],
+    "correctAnswer": "3 màu hoa "
+  },
+  {
+    "ID": 54,
+    "question": "Thành phần hoá học chính trong trà và cà phê là gì?",
+    "answers": [
+      "Protein (Prồ-tê-in) ",
+      "Vitamin A và C",
+      "Chất béo ",
+      "Caffeine (Cà-phê-in)"
+    ],
+    "correctAnswer": "Caffeine (Cà-phê-in)"
+  },
+  {
+    "ID": 55,
+    "question": "Nhiệt độ tối ưu để pha trà đảm bảo chất lượng và vị là bao nhiêu",
+    "answers": [
+      "60-70°C",
+      "75-85°C",
+      "90-100°C",
+      "50-60°C"
+    ],
+    "correctAnswer": "90-100°C"
+  },
+  {
+    "ID": 56,
+    "question": "Thành phần hóa học chính trong lá trà có tác dụng chống oxy hóa là gì? (Giảm nguy cơ mắc bệnh tim mạch và hỗ trợ hệ miễn dịch)",
+    "answers": [
+      "Polyphenol",
+      "Tannin",
+      "Lipid",
+      "Carbohydrate"
+    ],
+    "correctAnswer": "Polyphenol"
+  },
+  {
+    "ID": 57,
+    "question": "Tại sao cà phê có vị đắng? ",
+    "answers": [
+      "Do caffeine và chất chống oxy hóa",
+      "Do lượng đường trong hạt cà phê",
+      "Do chất béo trong hạt cà phê",
+      "Do nhiệt độ nước quá cao khi pha"
+    ],
+    "correctAnswer": "Do caffeine và chất chống oxy hóa"
+  },
+  {
+    "ID": 58,
+    "question": "Chất hóa học nào trong cà phê giúp kích thích hệ thần kinh?",
+    "answers": [
+      "Tannin",
+      "Caffeine",
+      "Polyphenol",
+      "Axit citric"
+    ],
+    "correctAnswer": "Caffeine"
+  },
+  {
+    "ID": 59,
+    "question": "Uống trà xanh hàng ngày mang lại lợi ích gì cho sức khỏe?",
+    "answers": [
+      "Hỗ trợ tiêu hóa",
+      "Giúp giảm căng thẳng",
+      "Tăng cường khả năng chống oxy hóa",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 60,
+    "question": "Chất polyphenol trong trà xanh có tác dụng gì đối với cơ thể?",
+    "answers": [
+      "Ngăn ngừa lão hóa",
+      "Tăng cường trí nhớ",
+      "Hỗ trợ kiểm soát cân nặng",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 61,
+    "question": "Topping như trân châu đen có thể được làm từ nguyên liệu tự nhiên nào?",
+    "answers": [
+      "Bột năng",
+      "Bột gạo",
+      "Than tre hoạt tính",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 62,
+    "question": "Công thức hóa học của đường sucrose là gì?",
+    "answers": [
+      "C6H12O6 (Glucose)",
+      "C12H22O11 ",
+      "C2H5OH (Ethanol)",
+      "CH4 (Methane)"
+    ],
+    "correctAnswer": "C12H22O11 "
+  },
+  {
+    "ID": 63,
+    "question": "Khu du lịch sinh thái nổi tiếng nào nằm ở Trảng Bom ",
+    "answers": [
+      "Khu du lịch Suối Mơ",
+      "Khu du lịch Thác Giang Điền",
+      "Khu du lịch Bò Cạp Vàng",
+      "Khu du lịch Hồ Trị An"
+    ],
+    "correctAnswer": "Khu du lịch Thác Giang Điền"
+  },
+  {
+    "ID": 64,
+    "question": "Hồ lớn nằm ở huyện Trảng Bom mang lại lợi ích thủy lợi và du lịch là hồ nào?",
+    "answers": [
+      "Hồ Trị An",
+      "Hồ Dầu Tiếng",
+      "Hồ Ba Bể",
+      "Hồ Phú Ninh"
+    ],
+    "correctAnswer": "Hồ Trị An"
+  },
+  {
+    "ID": 65,
+    "question": "Khu công nghiệp lớn nào nằm tại Trảng Bom, góp phần thúc đẩy kinh tế khu vực?",
+    "answers": [
+      "Khu công nghiệp Amata",
+      "Khu công nghiệp Sông Mây",
+      "Khu công nghiệp Long Thành",
+      "Khu công nghiệp Biên Hòa"
+    ],
+    "correctAnswer": "Khu công nghiệp Sông Mây"
+  },
+  {
+    "ID": 66,
+    "question": "Vườn quốc gia nào tại Đồng Nai được UNESCO công nhận là khu dự trữ sinh quyển thế giới?",
+    "answers": [
+      "Vườn quốc gia Bù Gia Mập",
+      "Vườn quốc gia Cát Tiên",
+      "Vườn quốc gia Yok Đôn",
+      "Vườn quốc gia U Minh Thượng"
+    ],
+    "correctAnswer": "Vườn quốc gia Cát Tiên"
+  },
+  {
+    "ID": 67,
+    "question": "Màu sắc chủ đạo của quán Monatea Cafe là màu gì?",
+    "answers": [
+      "Xanh dương, trắng và hồng",
+      "Đỏ và đen",
+      "Xanh lá, trắng và hồng",
+      "Xanh lá và trắng"
+    ],
+    "correctAnswer": "Xanh lá và trắng"
+  },
+  {
+    "ID": 68,
+    "question": "Monatea có bao nhiêu tượng ở trong quán?",
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "ID": 69,
+    "question": "Địa chỉ của quán Monatea Cafe nằm ở đâu ",
+    "answers": [
+      "14A Võ Nguyên Giáp, Trảng Bom, Đồng Nai",
+      "198A Hoàng Nam, Trảng Bom, Đồng Nai",
+      "205 Võ Thị Sáu, Trảng Bom, Đồng Nai",
+      "123A Cát Mét, Trảng Bom, Đồng Nai"
+    ],
+    "correctAnswer": "14A Võ Nguyên Giáp, Trảng Bom, Đồng Nai"
+  },
+  {
+    "ID": 70,
+    "question": "Mong muốn của quán Monatea Cafe đến cho mọi người là gì?",
+    "answers": [
+      "Tạo không gian an toàn, mát mẻ và dễ chịu cho mọi người",
+      "Tạo sự gần gũi, kết nối giữa con người và con người",
+      "Tạo cảm giác yên bình và sự gắn kết với thiên nhiên",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 71,
+    "question": "Monatea Cafe đã xuất hiện trên trang mạng xã hội nào?",
+    "answers": [
+      "Facebook",
+      "Instagram",
+      "Tiktok",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 72,
+    "question": "Ai là người thiết kế nội thất của quán Monatea Cafe?",
+    "answers": [
+      "Một kiến trúc sư",
+      "Một người thân của chủ quán",
+      "Một công ty thiết kế chuyên nghiệp",
+      "Chủ quán tự thiết kế"
+    ],
+    "correctAnswer": "Một kiến trúc sư"
+  },
+  {
+    "ID": 73,
+    "question": "What is the brand name?",
+    "answers": [
+      "Monatea Cafe",
+      "Monatea",
+      "Montea ",
+      "Monatra Caphe"
+    ],
+    "correctAnswer": "Monatea Cafe"
+  },
+  {
+    "ID": 74,
+    "question": "Loại nước nào hiện có trong menu của Monatea Cafe",
+    "answers": [
+      "Trà kiwi nho",
+      "Trà lựu mâm sôi",
+      "Cafe Đen Đá",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 75,
+    "question": "Các loại nước trong menu của Monatea Cafe mang đến hương vị nào đặc trưng?",
+    "answers": [
+      "Hương trà thanh mát",
+      "Hương trái cây tươi ngon",
+      "Hương trà sữa béo ngậy",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 76,
+    "question": "Ai là người phát triển và hoàn thiện nghi lễ trà đạo Nhật Bản, đặc biệt là việc sử dụng matcha?",
+    "answers": [
+      "Tokugawa Ieyasu",
+      "Sen no Rikyū",
+      "Oda Nobunaga",
+      "Toyotomi Hideyoshi"
+    ],
+    "correctAnswer": "Sen no Rikyū"
+  },
+  {
+    "ID": 77,
+    "question": "Monatea Cafe có bao nhiêu chữ?",
+    "answers": [
+      "11 chữ",
+      "10 chữ",
+      "9 chữ",
+      "8 chữ"
+    ],
+    "correctAnswer": "11 chữ"
+  },
+  {
+    "ID": 78,
+    "question": "Mùi vị của cà phê chưa qua chế biến có đặc điểm gì?",
+    "answers": [
+      "Mùi thơm đậm, giống mùi cà phê rang",
+      "Mùi giống thảo mộc, nhẹ nhàng",
+      "Mùi chua mạnh",
+      "Mùi đắng mạnh và gắt"
+    ],
+    "correctAnswer": "Mùi giống thảo mộc, nhẹ nhàng"
+  },
+  {
+    "ID": 79,
+    "question": "Band nhạc chơi ở Monatea có bao nhiêu thành viên?",
+    "answers": [
+      "5",
+      "8",
+      "6",
+      "9"
+    ],
+    "correctAnswer": "6"
+  },
+  {
+    "ID": 80,
+    "question": "Monatea Cafe có không gian mát từ máy lạnh hay không?",
     "answers": [
       "Có",
       "Không",
-      "Chỉ vào mùa hè",
-      "Chỉ cho khách yêu cầu"
+      "Sẽ có trong thời gian tới",
+      "Chỉ sử dụng quạt"
     ],
     "correctAnswer": "Có"
   },
   {
-    "ID": 28,
-    "question": "Trà sữa tại Monatea Cafe có thể được thay đổi vị với bao nhiêu loại trà?",
+    "ID": 81,
+    "question": "Tên quán Monatea Cafe có bao nhiêu từ?",
     "answers": [
-      "3 loại",
-      "4 loại",
-      "5 loại",
-      "6 loại"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "correctAnswer": "4 loại"
+    "correctAnswer": "2"
+  },
+  {
+    "ID": 82,
+    "question": "Quán Monatea toạ lạc ở tỉnh nào?",
+    "answers": [
+      "Đồng Nai",
+      "Biên Hoà",
+      "Trảng Bom",
+      "TP Hồ Chí Minh"
+    ],
+    "correctAnswer": "Đồng Nai"
+  },
+  {
+    "ID": 83,
+    "question": "Tết Nguyên Đán (Tết Âm Lịch) năm 2025 vào ngày mấy?",
+    "answers": [
+      "Ngày 29 tháng 1",
+      "Ngày 30 tháng 1",
+      "Ngày 1 tháng 1",
+      "Ngày 31 tháng 1"
+    ],
+    "correctAnswer": "Ngày 29 tháng 1"
+  },
+  {
+    "ID": 84,
+    "question": "Ngày Tết Nguyên Đán thường được coi là ngày đầu năm của người Việt, bạn thường làm gì vào ngày Mùng 1 Tết?",
+    "answers": [
+      "Thăm bà con, bạn bè",
+      "Đón khách, chúc Tết",
+      "Dọn dẹp nhà cửa",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 85,
+    "question": "Theo truyền thống, món ăn nào không thể thiếu trong mâm cỗ Tết của người Việt?",
+    "answers": [
+      "Bánh chưng (Bánh tét)",
+      "Bánh mì",
+      "Cơm gà",
+      "Xôi"
+    ],
+    "correctAnswer": "Bánh chưng (Bánh tét)"
+  },
+  {
+    "ID": 86,
+    "question": "Màu sắc của bao lì xì trong dịp Tết thường là gì?",
+    "answers": [
+      "Màu đỏ",
+      "Màu vàng",
+      "Màu xanh dương",
+      "Màu trắng"
+    ],
+    "correctAnswer": "Màu đỏ"
+  },
+  {
+    "ID": 87,
+    "question": "Lý do người Việt ăn bánh chưng (hoặc bánh tét) vào dịp Tết là gì?",
+    "answers": [
+      "Biểu tượng cho đất trời, trời đất bao la",
+      "Để tưởng nhớ tổ tiên",
+      "Để ăn mừng",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "ID": 88,
+    "question": "Nếu ly trà sữa rơi xuống đất, bạn sẽ làm gì?",
+    "answers": [
+      "Cúi xuống khóc thương nó",
+      "Nhờ nhân viên làm ly mới",
+      "Hối hận vì cầm không chặt",
+      "Dọn dẹp và rút kinh nghiệm"
+    ],
+    "correctAnswer": "Dọn dẹp và rút kinh nghiệm"
+  },
+  {
+    "ID": 89,
+    "question": "Nếu bạn nhắm mắt uống trà sữa, điều gì sẽ xảy ra?",
+    "answers": [
+      "Bạn sẽ uống nhầm vào không khí",
+      "Bạn sẽ cảm nhận vị ngon hơn",
+      "Topping có thể chui vào mũi",
+      "Trà sữa tự nhiên hết nhanh hơn"
+    ],
+    "correctAnswer": "Bạn sẽ cảm nhận vị ngon hơn"
+  },
+  {
+    "ID": 90,
+    "question": "Nếu bạn đặt ly trà sữa dưới ánh nắng quá lâu, điều gì sẽ xảy ra?",
+    "answers": [
+      "Đá tan, topping chìm, trà sữa nhạt nhẽo",
+      "Trà sữa đổi màu kỳ lạ",
+      "Ly trà sữa phát sáng như mặt trời",
+      "Một ly nước đường thần thánh ra đời"
+    ],
+    "correctAnswer": "Đá tan, topping chìm, trà sữa nhạt nhẽo"
+  },
+  {
+    "ID": 91,
+    "question": "Câu hỏi miễn phí, cảm ơn bạn đã dành thời gian đến quán Monatea Cafe! Xin chúc bạn có một năm mới thật tốt lành!",
+    "answers": [
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách"
+    ],
+    "correctAnswer": "Cảm ơn quý khách"
+  },
+  {
+    "ID": 92,
+    "question": "Câu hỏi miễn phí, cảm ơn bạn đã dành thời gian đến quán Monatea Cafe! Xin chúc bạn nhiều thành công trong năm nay!",
+    "answers": [
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách",
+      "Cảm ơn quý khách"
+    ],
+    "correctAnswer": "Cảm ơn quý khách"
+  },
+  {
+    "ID": 93,
+    "question": "Nếu bạn vào quán Monatea Cafe thấy rác, bạn sẽ làm gì?",
+    "answers": [
+      "Lụm rác bỏ vào thùng rác",
+      "Quay mặt bỏ mặc đi",
+      "Tố cáo nhân viên ",
+      "Up lên story "
+    ],
+    "correctAnswer": "Lụm rác bỏ vào thùng rác"
+  },
+  {
+    "ID": 94,
+    "question": "Trà sữa không thể thiếu thứ gì",
+    "answers": [
+      "Trân châu",
+      "Đường",
+      "Ly đựng",
+      "Người uống"
+    ],
+    "correctAnswer": "Người uống"
+  },
+  {
+    "ID": 95,
+    "question": "Nếu có một con mèo rơi vào ly trà sữa, bạn sẽ làm gì?",
+    "answers": [
+      "Vớt mèo lên rồi bỏ ly đi",
+      "Gọi nhân viên giúp đỡ",
+      "Ngừng uống và nuôi luôn con mèo",
+      "Chụp ảnh post lên Facebook"
+    ],
+    "correctAnswer": "Vớt mèo lên rồi bỏ ly đi"
+  },
+  {
+    "ID": 96,
+    "question": "Bạn sẽ làm gì nếu phát hiện ly trà sữa không có nắp?",
+    "answers": [
+      "Dùng tay che miệng ly",
+      "Nhờ quán lấy nắp khác",
+      "Uống thật cẩn thận để không đổ",
+      "Coi như đang uống nước dừa"
+    ],
+    "correctAnswer": "Nhờ quán lấy nắp khác"
+  },
+  {
+    "ID": 97,
+    "question": "Nếu Monatea Cafe tổ chức thi uống trà sữa nhanh, ai sẽ thắng?",
+    "answers": [
+      "Người không thích topping",
+      "Người có kinh nghiệm uống nhanh",
+      "Người dùng ống hút to hơn bình thường",
+      "Người không thi mà lấy phần thưởng luôn"
+    ],
+    "correctAnswer": "Người có kinh nghiệm uống nhanh"
+  },
+  {
+    "ID": 98,
+    "question": "Ly trà sữa cỡ lớn thông thường có dung tích khoảng bao nhiêu ml?",
+    "answers": [
+      "300ml",
+      "500 ml",
+      "700ml",
+      "1000ml"
+    ],
+    "correctAnswer": "700ml"
+  },
+  {
+    "ID": 99,
+    "question": "Thành phần nào không liên quan đến trà sữa Monatea?",
+    "answers": [
+      "Sữa tươi",
+      "Nước lọc",
+      "Lá trà",
+      "Nước mắm"
+    ],
+    "correctAnswer": "Nước mắm"
+  },
+  {
+    "ID": 100,
+    "question": "Nếu uống 10 ly trà sữa liên tiếp, bạn sẽ làm gì tiếp theo?",
+    "answers": [
+      "Đi ngủ",
+      "Đi tập thể dục",
+      "Đi bác sĩ",
+      "Đi hỏi ai trả tiền"
+    ],
+    "correctAnswer": "Đi hỏi ai trả tiền"
+  },
+  {
+    "ID": 101,
+    "question": "Quán Monatea có bao nhiêu loại đèn?",
+    "answers": [
+      "2",
+      "4",
+      "3",
+      "10"
+    ],
+    "correctAnswer": "10"
   }
 ]
