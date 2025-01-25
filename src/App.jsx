@@ -45,6 +45,14 @@ function App() {
       setEarned(moneyPyramid.find((m) => m.id === questionNumber - 1).amount);
   }, [questionNumber, moneyPyramid]);
 
+  // Function to reset the game
+  const resetGame = () => {
+    setUsername(null);
+    setTimeOut(false);
+    setQuestionNumber(1);
+    setEarned("Chúc May Mắn Lần Sau!");
+  };
+
   return (
     <div className="app">
       {!username ? (
@@ -53,7 +61,15 @@ function App() {
         <>
           <div className="main">
             {timeOut ? (
-              <h1 className="endText">Cảm Ơn Quý Khách, {earned}</h1>
+              <>
+                <h1 className="endText">
+                  Cảm Ơn Quý Khách, {username}! {earned}
+                </h1>
+                {/* Play Again Button */}
+                <button className="playAgainButton" onClick={resetGame}>
+                  Chơi Lại
+                </button>
+              </>
             ) : (
               <>
                 <div className="top">
@@ -62,6 +78,10 @@ function App() {
                       setTimeOut={setTimeOut}
                       questionNumber={questionNumber}
                     />
+                  </div>
+                  {/* Guest Name Box */}
+                  <div className="guestNameBox">
+                    <h2>Quý Khách: {username}</h2>
                   </div>
                 </div>
                 <div className="bottom">

@@ -10,6 +10,7 @@ export default function Trivia({
   setQuestionNumber,
   setTimeOut,
 }) {
+  const [shuffledData, setShuffledData] = useState([]);
   const [question, setQuestion] = useState(null);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [className, setClassName] = useState("answer");
@@ -17,13 +18,20 @@ export default function Trivia({
   const [correctAnswer] = useSound(correct);
   const [wrongAnswer] = useSound(wrong);
 
+  // Shuffle the data on component mount
+  useEffect(() => {
+    setShuffledData([...data].sort(() => Math.random() - 0.5));
+  }, [data]);
+
   useEffect(() => {
     letsPlay();
   }, [letsPlay]);
 
   useEffect(() => {
-    setQuestion(data[questionNumber - 1]);
-  }, [data, questionNumber]);
+    if (shuffledData.length > 0) {
+      setQuestion(shuffledData[questionNumber - 1]);
+    }
+  }, [shuffledData, questionNumber]);
 
   const shuffledAnswers = useMemo(() => {
     if (!question) return [];

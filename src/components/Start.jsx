@@ -4,7 +4,16 @@ export default function Start({ setUsername }) {
   const inputRef = useRef();
 
   const handleClick = () => {
-    inputRef.current.value && setUsername(inputRef.current.value);
+    const username = inputRef.current.value.trim(); // Trim whitespace
+    if (username) {
+      setUsername(username);
+    }
+  };
+
+  const handleKeyPress = (event) => {
+    if (event.key === "Enter") {
+      handleClick(); // Trigger handleClick on Enter
+    }
   };
 
   return (
@@ -13,6 +22,7 @@ export default function Start({ setUsername }) {
         className="startInput"
         placeholder="Nhập Tên Quý Khách"
         ref={inputRef}
+        onKeyPress={handleKeyPress} // Handle Enter key
       />
       <button className="startButton" onClick={handleClick}>
         Bắt Đầu Chơi
