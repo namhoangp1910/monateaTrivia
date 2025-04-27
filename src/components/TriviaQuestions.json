@@ -1,575 +1,575 @@
 [
   {
     "ID": 1,
-    "question": "Quán Monatea Cafe chuyên về loại đồ uống nào?",
+    "question": "Nhà nước đầu tiên của nước ta là gì?",
     "answers": [
-      "Trà sữa",
-      "Cà phê",
-      "Sinh tố",
-      "Nước ép trái cây"
+      "Âu Lạc",
+      "Văn Lang",
+      "Đại Việt",
+      "Việt Nam"
     ],
-    "correctAnswer": "Trà sữa"
+    "correctAnswer": "Văn Lang"
   },
   {
     "ID": 2,
-    "question": "Monatea Cafe có không gian như thế nào?",
+    "question": "Vị vua đầu tiên của nước ta là ai?",
     "answers": [
-      "Vintage hiện đại",
-      "Châu Á cổ điển",
-      "Châu Âu cổ điển",
-      "Tân tối giản "
+      "An Dương Vương",
+      "Lý Thái Tổ",
+      "Hùng Vương",
+      "Lê Lợi​"
     ],
-    "correctAnswer": "Châu Âu cổ điển"
+    "correctAnswer": "Hùng Vương"
   },
   {
     "ID": 3,
-    "question": "Quán Monatea Cafe mở cửa vào giờ nào?",
+    "question": "Ai là người đặt tên nước ta là Vạn Xuân?",
     "answers": [
-      "6:15 - 23:00 ",
-      "7:00  - 23:30 ",
-      "9:00 - 23:00 ",
-      "10:00 - 21:00"
+      "Lý Bí",
+      "Ngô Quyền",
+      "Lý Công Uẩn",
+      "Đinh Bộ Lĩnh"
     ],
-    "correctAnswer": "6:15 - 23:00 "
+    "correctAnswer": "Lý Bí"
   },
   {
     "ID": 4,
-    "question": "Trà sữa là thức uống bắt đầu từ đâu?",
+    "question": "Chiến thắng Bạch Đằng năm 938 do ai lãnh đạo?",
     "answers": [
-      "Việt Nam",
-      "Đài Loan",
-      "Trung Quốc",
-      "Nhật Bản"
+      "Lý Thường Kiệt",
+      "Trần Hưng Đạo",
+      "Lê Lợi",
+      "Ngô Quyền"
     ],
-    "correctAnswer": "Đài Loan"
+    "correctAnswer": "Ngô Quyền"
   },
   {
     "ID": 5,
-    "question": "Monatea Cafe có món trà nào đặc biệt?",
+    "question": "Chiến dịch Điện Biên Phủ diễn ra vào năm nào?",
     "answers": [
-      "Matcha Trà Xanh",
-      "Trà đen",
-      "Trà hoa cúc",
-      "Trà oolong"
+      "1954",
+      "1953",
+      "1955",
+      "1956"
     ],
-    "correctAnswer": "Matcha Trà Xanh"
+    "correctAnswer": "1954"
   },
   {
     "ID": 6,
-    "question": "Cà phê espresso là gì?",
+    "question": "Ai là người sáng lập ra nhà Trần?",
     "answers": [
-      "Cà phê đen nguyên chất",
-      "Cà phê có sữa",
-      "Cà phê lạnh",
-      "Cà phê với đường"
+      "Trần Nhân Tông",
+      "Trần Hưng Đạo",
+      "Trần Quốc Tuấn",
+      "Trần Thủ Độ"
     ],
-    "correctAnswer": "Cà phê đen nguyên chất"
+    "correctAnswer": "Trần Thủ Độ"
   },
   {
     "ID": 7,
-    "question": "Thức uống nào không phải là món phổ biến tại Monatea Cafe?",
+    "question": "Thành Cổ Loa được xây dựng dưới triều đại nào?",
     "answers": [
-      "Hồng Trà",
-      "Cà phê ",
-      "Trà hoa quả",
-      "Matcha Trà Xanh "
+      "Nhà Lý",
+      "Nhà Âu Lạc",
+      "Nhà Trần",
+      "Nhà Nguyễn"
     ],
-    "correctAnswer": "Matcha Trà Xanh "
+    "correctAnswer": "Nhà Âu Lạc"
   },
   {
     "ID": 8,
-    "question": "Món nước nào không có trong menu của Monatea Cafe",
+    "question": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn?",
     "answers": [
-      "Matcha Dâu",
-      "Trà Sữa Nhài olong",
-      "Trà Cam Mâm Sôi",
-      "Sinh Tố Xoài"
+      "Nguyễn Huệ",
+      "Lê Lợi",
+      "Trần Hưng Đạo",
+      "Ngô Quyền​"
     ],
-    "correctAnswer": "Trà Cam Mâm Sôi"
+    "correctAnswer": "Lê Lợi"
   },
   {
     "ID": 9,
-    "question": "Monatea Cafe có bao nhiêu loại trà sữa?",
+    "question": "Ngày Quốc khánh của Việt Nam là ngày nào?",
     "answers": [
-      "4 loại",
-      "5 loại",
-      "3 loại",
-      "2 loại"
+      "30/4",
+      "19/8",
+      "2/9",
+      "1/5"
     ],
-    "correctAnswer": "4 loại"
+    "correctAnswer": "2/9"
   },
   {
     "ID": 10,
-    "question": "Monatea Cafe hiện có bao nhiêu nhân viên",
+    "question": "Chiến dịch Hồ Chí Minh bắt đầu vào ngày nào?",
     "answers": [
-      "4",
-      "7",
-      "9",
-      "10"
+      "26/4/1975",
+      "29/4/1975",
+      "30/4/1975",
+      "1/5/1975"
     ],
-    "correctAnswer": "4"
+    "correctAnswer": "29/4/1975"
   },
   {
     "ID": 11,
-    "question": "Trà sữa trân châu của Monatea Cafe có thành phần chính là gì?",
+    "question": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký vào năm nào?",
     "answers": [
-      "Trà đen",
-      "Trà xanh",
-      "Trà oolong",
-      "Trà hoa nhài"
+      "1972",
+      "1973",
+      "1974",
+      "1975"
     ],
-    "correctAnswer": "Trà đen"
+    "correctAnswer": "1973"
   },
   {
     "ID": 12,
-    "question": "Đồ uống nào là món đặc biệt vào mùa hè tại Monatea Cafe?",
+    "question": "Ai là Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam?",
     "answers": [
-      "Trà sữa trái cây",
-      "Cà phê đá xay",
-      "Trà matcha latte",
-      "Trà hoa quả"
+      "Trần Phú",
+      "Hồ Chí Minh",
+      "Lê Duẩn",
+      "Nguyễn Văn Cừ"
     ],
-    "correctAnswer": "Trà matcha latte"
+    "correctAnswer": "Trần Phú"
   },
   {
     "ID": 13,
-    "question": "Monatea Cafe có cung cấp wifi miễn phí không?",
+    "question": "Chiến dịch Biên giới Thu - Đông năm 1950 do ai chỉ huy?",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ trong giờ vàng",
-      "Chỉ cho khách hàng đăng ký"
+      "Võ Nguyên Giáp",
+      "Phạm Văn Đồng",
+      "Trường Chinh",
+      "Hồ Chí Minh"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "Hồ Chí Minh"
   },
   {
     "ID": 14,
-    "question": "Món đặc trưng nhất của Monatea Cafe là gì",
+    "question": "Ai là người đọc Tuyên ngôn Độc lập ngày 2/9/1945?",
     "answers": [
-      "Sinh Tố Dâu",
-      "Trà sữa Gạo Rang Thạch Nổ",
-      "Trà Lựu Mâm Sôi",
-      "Matcha Chuối"
+      "Phạm Văn Đồng",
+      "Hồ Chí Minh",
+      "Trường Chinh",
+      "Võ Nguyên Giáp"
     ],
-    "correctAnswer": "Matcha Chuối"
+    "correctAnswer": "Hồ Chí Minh"
   },
   {
     "ID": 15,
-    "question": "Monatea Cafe có chương trình giảm giá cho học sinh và sinh viên không?",
+    "question": "Tổ chức nào lãnh đạo cuộc Tổng khởi nghĩa tháng 8 năm 1945?",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ vào ngày trong tuần",
-      "Chỉ cho nhóm đông người"
+      "Quốc hội",
+      "Việt Minh",
+      "Chính phủ lâm thời",
+      "Quốc dân đại hội"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "Việt Minh"
   },
   {
     "ID": 16,
-    "question": "Monatea Cafe có diện tích tổng cộng là bao nhiêu",
+    "question": "Ai là người được gọi là “Bác Hồ”?",
     "answers": [
-      "100m²",
-      "330m²",
-      "175m²",
-      "198m²"
+      "Hồ Xuân Hương",
+      "Nguyễn Ái Quốc",
+      "Nguyễn Văn Lợi",
+      "Hồ Tùng Mậu"
     ],
-    "correctAnswer": "198m²"
+    "correctAnswer": "Nguyễn Ái Quốc"
   },
   {
     "ID": 17,
-    "question": "Trà sữa tại Monatea Cafe được làm từ loại đường gì?",
+    "question": "Thành phố nào từng có tên là Sài Gòn?",
     "answers": [
-      "Đường nâu",
-      "Đường trắng",
-      "Đường phèn",
-      "Đường mật"
+      "Cần Thơ",
+      "Huế",
+      "Thành phố Hồ Chí Minh",
+      "Hà Nội"
     ],
-    "correctAnswer": "Đường phèn"
+    "correctAnswer": "Thành phố Hồ Chí Minh"
   },
   {
     "ID": 18,
-    "question": "Quán Monatea Cafe có không gian ngoài trời không?",
+    "question": "Đồng tiền của Việt Nam hiện nay là gì?",
     "answers": [
-      "Có",
-      "Không",
-      "Chỉ vào mùa hè",
-      "Chỉ buổi tối"
+      "Đồng Nhân dân tệ",
+      "Đô la Mỹ",
+      "Euro",
+      "Việt Nam đồng"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "Việt Nam đồng"
   },
   {
     "ID": 19,
-    "question": "Ai là người thiết kế logo của Monatea Cafe",
+    "question": "Lễ hội Gò Đống Đa tưởng nhớ ai?",
     "answers": [
-      "Người quen là người thiết kế logo",
-      "Một người thân của chủ quán",
-      "Một công ty thiết kế chuyên nghiệp",
-      "Chủ quán tự thiết kế"
+      "Lý Thái Tổ",
+      "Lê Lợi",
+      "Nguyễn Huệ",
+      "Trần Nhân Tông"
     ],
-    "correctAnswer": "Người quen là người thiết kế logo"
+    "correctAnswer": "Nguyễn Huệ"
   },
   {
     "ID": 20,
-    "question": "Có bao nhiêu loại topping cho trà sữa tại Monatea Cafe?",
+    "question": "Lý Công Uẩn dời đô từ Hoa Lư ra Thăng Long vào năm nào?",
     "answers": [
-      "5 loại",
-      "7 loại",
-      "8 loại",
-      "12 loại"
+      "1010",
+      "1000",
+      "1054",
+      "1020"
     ],
-    "correctAnswer": "7 loại"
+    "correctAnswer": "1010"
   },
   {
     "ID": 21,
-    "question": "Món nước nào là phổ biến nhất tại Monatea Cafe?",
+    "question": "Ai là người sáng lập ra nhà Lý?",
     "answers": [
-      "Trà sữa",
-      "Trà đá",
-      "Matcha",
-      "Cà phê đá"
+      "Lý Thái Tổ",
+      "Lý Nhân Tông",
+      "Lý Công Uẩn",
+      "Lý Thường Kiệt"
     ],
-    "correctAnswer": "Matcha"
+    "correctAnswer": "Lý Công Uẩn"
   },
   {
     "ID": 22,
-    "question": "Món nước nào được xem là ngon nhất tại quán Monatea Cafe",
+    "question": "Thời kỳ Bắc thuộc đầu tiên kéo dài bao nhiêu năm?",
     "answers": [
-      "Matcha và trà sữa",
-      "Cà phê đen",
-      "Trà đào cam sả",
-      "Nước ép trái cây"
+      "Hơn 100 năm",
+      "Hơn 500 năm",
+      "Hơn 1000 năm",
+      "Hơn 700 năm"
     ],
-    "correctAnswer": "Matcha và trà sữa"
+    "correctAnswer": "Hơn 1000 năm"
   },
   {
     "ID": 23,
-    "question": "Đồng phục của nhân viên Monatea Cafe có màu gì",
+    "question": "Ai là người nổi tiếng với câu nói “Đánh cho để dài tóc, đánh cho để đen răng”?",
     "answers": [
-      "Xanh Lá Cây",
-      "Xanh Bơ",
-      "Xanh Cốm",
-      "Xanh Rêu"
+      "Trần Nhân Tông",
+      "Nguyễn Huệ",
+      "Lê Lợi",
+      "Trưng Trắc"
     ],
-    "correctAnswer": "Xanh Cốm"
+    "correctAnswer": "Nguyễn Huệ"
   },
   {
     "ID": 24,
-    "question": "Monatea Cafe mở cửa từ mấy giờ?",
+    "question": "Cuộc khởi nghĩa Hai Bà Trưng nổ ra vào năm nào?",
     "answers": [
-      "06:15",
-      "08:00",
-      "09:00",
-      "10:00"
+      "40",
+      "43",
+      "46",
+      "39"
     ],
-    "correctAnswer": "06:15"
+    "correctAnswer": "40"
   },
   {
     "ID": 25,
-    "question": "Trà sữa tại Monatea Cafe có bao nhiêu loại trân châu?",
+    "question": "Nguyễn Huệ lên ngôi Hoàng đế lấy niên hiệu là gì?",
     "answers": [
-      "2 loại",
-      "3 loại",
-      "4 loại",
-      "5 loại"
+      "Tây Sơn",
+      "Cảnh Thịnh",
+      "Quang Trung",
+      "Gia Long"
     ],
-    "correctAnswer": "3 loại"
+    "correctAnswer": "Quang Trung"
   },
   {
     "ID": 26,
-    "question": "Món \"matcha\" của quán\nMonatea có thành phần chính nào?",
+    "question": "Hội nghị Ianta được tổ chức vào năm nào, có ảnh hưởng tới cách chia đôi Việt Nam sau này?",
     "answers": [
-      "Matcha, sữa tươi, kem béo",
-      "Matcha, xoài",
-      "Matcha, đậu đỏ",
-      "Matcha, kem tươi"
+      "1943",
+      "1945",
+      "1947",
+      "1949"
     ],
-    "correctAnswer": "Matcha, sữa tươi, kem béo"
+    "correctAnswer": "1945"
   },
   {
     "ID": 27,
-    "question": "Trà sữa nhài của Monatea được kết hợp với loại topping nào?",
+    "question": "Vị vua nhà Nguyễn nào lên ngôi khi còn là trẻ em 7 tuổi?",
     "answers": [
-      "Trân châu oolong",
-      "Thạch nổ",
-      "Trân châu hoàng kim",
+      "Tự Đức",
+      "Duy Tân",
+      "Thành Thái",
       "Trân châu gạo rang"
     ],
-    "correctAnswer": "Trân châu oolong"
+    "correctAnswer": "Duy Tân"
   },
   {
     "ID": 28,
-    "question": "Matcha chuối là sự kết hợp của bột matcha và",
+    "question": "Nguyễn Ái Quốc tham dự Đại hội Tours và gia nhập Quốc tế Cộng sản vào năm nào?",
     "answers": [
-      "Sữa tươi, chuối tươi",
-      "Siro và mứt ",
-      "Chất tạo hương vị﻿",
-      "Bột chuối và kem béo"
+      "1919",
+      "1920",
+      "1921",
+      "1922"
     ],
-    "correctAnswer": "Sữa tươi, chuối tươi"
+    "correctAnswer": "1920"
   },
   {
     "ID": 29,
-    "question": "Trà sữa hoàng kim của quán\nMonatea có màu sắc đặc trưng nhờ vào nguyên liệu nào?",
+    "question": "Tên gọi “Việt Nam” lần đầu tiên xuất hiện trong tài liệu chính thức vào năm nào?",
     "answers": [
-      "Đường nâu",
-      "Trân châu",
-      "Matcha",
-      "Gạo rang"
+      "1802",
+      "1858",
+      "1804",
+      "1820"
     ],
-    "correctAnswer": "Đường nâu"
+    "correctAnswer": "1804"
   },
   {
     "ID": 30,
-    "question": "Trong số các món matcha của quán, món nào có sự kết hợp với trái cây nhiệt đới",
+    "question": "Lý Thường Kiệt thực hiện cuộc tấn công phủ đầu vào đất Tống năm nào?",
     "answers": [
-      "Matcha dâu",
-      "Matcha chuối",
-      "Matcha xoài",
-      "Matcha latte"
+      "1070",
+      "1072",
+      "1075",
+      "1076"
     ],
-    "correctAnswer": "Matcha xoài"
+    "correctAnswer": "1075"
   },
   {
     "ID": 31,
-    "question": "Monatea Cafe thường dùng loại trà nào để làm trà sữa matcha?",
+    "question": "Cuộc cải cách hành chính nổi bật nhất thời Lê Thánh Tông diễn ra vào năm nào?",
     "answers": [
-      "Trà oolong",
-      "Trà xanh",
-      "Trà đen",
-      "Trà nhài"
+      "1460",
+      "1466",
+      "1470",
+      "1480"
     ],
-    "correctAnswer": "Trà nhài"
+    "correctAnswer": "1466"
   },
   {
     "ID": 32,
-    "question": "Nếu khách muốn một món nước vừa có vị ngọt thanh của trà sữa, vừa có vị gạo rang, món nào phù hợp nhất?",
+    "question": "Tác phẩm “Hoàng Lê nhất thống chí” được viết dưới triều đại nào?",
     "answers": [
-      "Trà sữa matcha trân châu gạo rang",
-      "Trà sữa nhài trân châu oolong",
-      "Trà sữa gạo rang thạch nổ",
-      "Matcha latte"
+      "Hậu Lê",
+      "Tây Sơn",
+      "Nguyễn",
+      "Trịnh - Nguyễn phân tranh"
     ],
-    "correctAnswer": "Trà sữa gạo rang thạch nổ"
+    "correctAnswer": "Tây Sơn"
   },
   {
     "ID": 33,
-    "question": "Topping đặc trưng nào xuất hiện nhiều trong menu của Monatea Cafe",
+    "question": "Tướng giặc Pháp nào bị bắt sống trong chiến dịch Điện Biên Phủ?",
     "answers": [
-      "Trân châu oolong",
-      "Thạch nổ",
-      "Trân châu hoàng kim",
-      "Tất cả các đáp án trên"
+      "Salan",
+      "Navarre",
+      "De Castries",
+      "Pirot"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "De Castries"
   },
   {
     "ID": 34,
-    "question": "Tên gọi \"trân châu hoàng kim\" xuất phát từ đặc điểm gì?",
+    "question": "Ai là người viết thư kêu gọi toàn quốc kháng chiến ngày 19/12/1946?",
     "answers": [
-      "Vị ngọt đặc trưng từ mật ong",
-      "Hạt trân châu có màu vàng như kim loại",
-      "Là loại topping cao cấp thường dùng trong trà sữa",
-      "Cả A và B"
+      "Võ Nguyên Giáp",
+      "Phạm Văn Đồng",
+      "Trường Chinh",
+      "Hồ Chí Minh"
     ],
-    "correctAnswer": "Cả A và B"
+    "correctAnswer": "Hồ Chí Minh"
   },
   {
     "ID": 35,
-    "question": "Trà sữa nhài trân châu oolong của Monatea có đặc tính gì?",
+    "question": "Cuộc khởi nghĩa Yên Thế do ai lãnh đạo?",
     "answers": [
-      "Vị đắng đậm, thơm nhẹ",
-      "Vị chát nhẹ, hậu ngọt",
-      "Không mùi, vị nhạt",
-      "Vị trà mạnh và rất ngọt"
+      "Hoàng Hoa Thám",
+      "Phan Đình Phùng",
+      "Đinh Công Tráng",
+      "Nguyễn Thiện Thuật"
     ],
-    "correctAnswer": "Vị chát nhẹ, hậu ngọt"
+    "correctAnswer": "Hoàng Hoa Thám"
   },
   {
     "ID": 36,
-    "question": "Monatea Cafe thường sử dụng loại trái cây nào để làm topping tự nhiên trong món matcha?",
+    "question": "Triều đại nào thực hiện chính sách “Ngụ binh ư nông”?",
     "answers": [
-      "Chuối và xoài",
-      "Dâu và đậu đỏ",
-      "Cả A và B",
-      "Không có topping trái cây"
+      "Trần",
+      "Lý",
+      "Lê sơ",
+      "Tây Sơn"
     ],
-    "correctAnswer": "Cả A và B"
+    "correctAnswer": "Trần"
   },
   {
     "ID": 37,
-    "question": "Sinh tố của Monatea có topping gì",
+    "question": "Trần Hưng Đạo mất năm nào?",
     "answers": [
-      "Trân châu gạo rang",
-      "Thạch nổ, thạch trắng",
-      "Đậu đỏ",
-      "Không có topping"
+      "1300",
+      "1305",
+      "1308",
+      "1310"
     ],
-    "correctAnswer": "Không có topping"
+    "correctAnswer": "1300"
   },
   {
     "ID": 38,
-    "question": "Thạch nổ được biết đến với đặc điểm gì đặc biệt?",
+    "question": "Sự kiện nào đánh dấu sự sụp đổ hoàn toàn của chính quyền VNCH?",
     "answers": [
-      "Có vị ngọt nhẹ và giòn",
-      "Tạo cảm giác \"nổ\" khi ăn",
-      "Làm từ nước trái cây",
-      "Cả A và B"
+      "Giải phóng Đà Nẵng",
+      "Chiếm Dinh Độc Lập",
+      "Chiến dịch Tây Nguyên",
+      "Hiệp định Paris"
     ],
-    "correctAnswer": "Cả A và B"
+    "correctAnswer": "Chiếm Dinh Độc Lập"
   },
   {
     "ID": 39,
-    "question": "Monatea Cafe có gì đặc biệt dành cho khách hàng yêu thích nghệ thuật?",
+    "question": "Tác phẩm “Thiên Nam ngữ lục” là của ai?",
     "answers": [
-      "Xem Phim netflix",
-      "Góc tổ chức các sự kiện nhỏ",
-      "Không gian trang trí tượng và tranh ảnh vintage",
-      "Cả A và B"
+      "Nguyễn Du",
+      "Lê Quý Đôn",
+      "Nguyễn Huy Tự",
+      "Không rõ tác giả"
     ],
-    "correctAnswer": "Cả A và B"
+    "correctAnswer": "Không rõ tác giả"
   },
   {
     "ID": 40,
-    "question": "Monatea Cafe có sức chứa bao nhiêu khách?",
+    "question": "Thành phố nào hiện nay là thủ đô của Việt Nam?",
     "answers": [
-      "10-30 người",
-      "20-30 người",
-      "30-50 người",
-      "60-70 người"
+      "Sài Gòn",
+      "Huế",
+      "Hà Nội",
+      "Đà Nẵng"
     ],
-    "correctAnswer": "30-50 người"
+    "correctAnswer": "Hà Nội"
   },
   {
     "ID": 41,
-    "question": "Monatea Cafe có máy chiếu để làm gì?",
+    "question": "Tên gọi Sài Gòn được đổi thành Thành phố Hồ Chí Minh vào năm nào?",
     "answers": [
-      "Trình chiếu menu",
-      "Chiếu phim hoặc sự kiện đặc biệt",
-      "Làm ánh sáng cho quán",
-      "Trình bày thông báo"
+      "1973",
+      "1974",
+      "1975",
+      "1976"
     ],
-    "correctAnswer": "Chiếu phim hoặc sự kiện đặc biệt"
+    "correctAnswer": "1976"
   },
   {
     "ID": 42,
-    "question": "Trà sữa hoàng kim của Monatea có đặc tính gì?",
+    "question": "Quốc kỳ Việt Nam có nền đỏ và hình gì ở giữa?",
     "answers": [
-      "Đậm vị trà, ngọt",
-      "Vị đắng đậm, thơm nhẹ",
-      "Vị chát nhẹ, hậu ngọt",
-      "Thơm trà, hậu đắng"
+      "Mặt trời",
+      "Ngôi sao vàng",
+      "Trái đất",
+      "Trống đồng"
     ],
-    "correctAnswer": "Đậm vị trà, ngọt"
+    "correctAnswer": "Ngôi sao vàng"
   },
   {
     "ID": 43,
-    "question": "Loại trà nào thường được dùng để làm trà trái cây?",
+    "question": "Quốc ca Việt Nam tên là gì?",
     "answers": [
-      "Trà đen",
-      "Trà ô long",
-      "Trà xanh",
-      "Trà hoa nhài"
+      "Vì nhân dân quên mình",
+      "Tiến quân ca",
+      "Như có Bác trong ngày đại thắng",
+      "Bài ca hy vọng"
     ],
-    "correctAnswer": "Trà đen"
+    "correctAnswer": "Tiến quân ca"
   },
   {
     "ID": 44,
-    "question": "Loại topping “trân châu hoàng kim” có màu gì?",
+    "question": "Ai là người Việt Nam đầu tiên bay vào vũ trụ?",
     "answers": [
-      "Vàng",
-      "Đen",
-      "Trắng",
-      "Hồng"
+      "Trần Đại Nghĩa",
+      "Phạm Tuân",
+      "Nguyễn Thành Trung",
+      "Lê Đức Anh"
     ],
-    "correctAnswer": "Vàng"
+    "correctAnswer": "Phạm Tuân"
   },
   {
     "ID": 45,
-    "question": "\"Bạc xỉu\" là loại đồ uống đặc trưng của nước nào?",
+    "question": "Việt Nam giành quyền đăng cai SEA Games lần đầu vào năm nào?",
     "answers": [
-      "Việt Nam",
-      "Thái Lan",
-      "Nhật Bản",
-      "Trung Quốc"
+      "1999",
+      "2001",
+      "2003",
+      "2005"
     ],
-    "correctAnswer": "Việt Nam"
+    "correctAnswer": "2003"
   },
   {
     "ID": 46,
     "question": "Khi khuấy trà nguội và bột sữa hiện tượng gì xảy ra",
     "answers": [
-      "Hoà tan với nhau",
-      "Chuyển màu vàng",
-      "Không hoà tan được",
-      "Chuyển màu nâu"
+      "1945",
+      "1976",
+      "1986",
+      "1954"
     ],
-    "correctAnswer": "Không hoà tan được"
+    "correctAnswer": "1976"
   },
   {
     "ID": 47,
-    "question": "Ý nghĩa tên Monatea Cafe là gì ?",
+    "question": "Ngày Thương binh Liệt sĩ là ngày nào?",
     "answers": [
-      "Theo đuổi ước mơ",
-      "Những cô gái quý tộc",
-      "Hoài niệm",
-      "Kí ức"
+      "19/8",
+      "22/6",
+      "2/9",
+      "27/7"
     ],
-    "correctAnswer": "Những cô gái quý tộc"
+    "correctAnswer": "27/7"
   },
   {
     "ID": 48,
-    "question": "Monatea sử dụng loại sữa nào cho các loại nước?",
+    "question": "Kinh đô của nhà Nguyễn là ở đâu?",
     "answers": [
-      "Sữa đặc ",
-      "Sữa bò tươi",
-      "Sữa bột",
-      "Sữa hạt"
+      "Hà Nội",
+      "Ninh Bình",
+      "Huế",
+      "Quảng Trị"
     ],
-    "correctAnswer": "Sữa bò tươi"
+    "correctAnswer": "Huế"
   },
   {
     "ID": 49,
-    "question": "Monatea Cafe lần đầu khai trương thử vào ngày mấy?",
+    "question": "Việt Nam có bao nhiêu tỉnh, thành phố trực thuộc trung ương (tính đến hiện tại)?",
     "answers": [
-      "Ngày 16 tháng 1",
-      "Ngày 18 tháng 1",
-      "Ngày 20 tháng 1",
-      "Ngày 25 tháng 1"
+      "63",
+      "60",
+      "64",
+      "61"
     ],
-    "correctAnswer": "Ngày 16 tháng 1"
+    "correctAnswer": "63"
   },
   {
     "ID": 50,
-    "question": "Bạn đã theo dõi facebook của quán Monatea chưa?",
+    "question": "Ngọn núi cao nhất Việt Nam là?",
     "answers": [
-      "Monatea Cafe chỉ có trên Instagram",
-      "Chưa theo dõi",
-      "Đã theo dõi",
-      "Monatea chưa có "
+      "Bạch Mã",
+      "Ba Vì",
+      "Phan Xi Păng",
+      "Tà Xùa"
     ],
-    "correctAnswer": "Đã theo dõi"
+    "correctAnswer": "Phan Xi Păng"
   },
   {
     "ID": 51,
-    "question": "Monatea khai trương chính thức vào ngày mấy?",
+    "question": "Biển Đông của Việt Nam giáp mấy quốc gia?",
     "answers": [
-      "Ngày 20 tháng 1",
-      "Ngày 22 tháng 1",
-      "Ngày 24 tháng 1",
-      "Ngày 25 tháng 1"
+      "4",
+      "5",
+      "6",
+      "7"
     ],
-    "correctAnswer": "Ngày 25 tháng 1"
+    "correctAnswer": "7"
   },
   {
     "ID": 52,
-    "question": "Điểm đặc biệt trong không gian của Monatea Cafe là gì?",
+    "question": "Việt Nam chính thức gia nhập Liên Hợp Quốc vào năm nào?",
     "answers": [
-      "Có màn hình chiếu phim và đèn chùm retro",
-      "Trang trí bằng màu sắc neon",
-      "Sử dụng ghế nhựa đơn giản",
-      "Kết hợp nhà kính trồng cây"
+      "1977",
+      "1975",
+      "1978",
+      "1980"
     ],
-    "correctAnswer": "Có màn hình chiếu phim và đèn chùm retro"
+    "correctAnswer": "1977"
   },
   {
     "ID": 53,
@@ -584,185 +584,186 @@
   },
   {
     "ID": 54,
-    "question": "Thành phần hoá học chính trong trà và cà phê là gì?",
+    "question": "Việt Nam giành HCV bóng đá nam SEA Games lần đầu tiên vào năm nào (sau 1975)?",
     "answers": [
-      "Protein (Prồ-tê-in) ",
-      "Vitamin A và C",
-      "Chất béo ",
-      "Caffeine (Cà-phê-in)"
+      "2015",
+      "2017",
+      "2019",
+      "2021"
     ],
-    "correctAnswer": "Caffeine (Cà-phê-in)"
+    "correctAnswer": "2019"
   },
   {
     "ID": 55,
-    "question": "Nhiệt độ tối ưu để pha trà đảm bảo chất lượng và vị là bao nhiêu",
+    "question": "Bác Hồ sinh ra ở tỉnh nào?",
     "answers": [
-      "60-70°C",
-      "75-85°C",
-      "90-100°C",
-      "50-60°C"
+      "Hà Tĩnh",
+      "Nghệ An",
+      "Thanh Hóa",
+      "Quảng Bình"
     ],
-    "correctAnswer": "90-100°C"
+    "correctAnswer": "Nghệ An"
   },
   {
     "ID": 56,
-    "question": "Thành phần hóa học chính trong lá trà có tác dụng chống oxy hóa là gì? (Giảm nguy cơ mắc bệnh tim mạch và hỗ trợ hệ miễn dịch)",
+    "question": "Việt Nam là thành viên chính thức của ASEAN từ năm nào?",
     "answers": [
-      "Polyphenol",
-      "Tannin",
-      "Lipid",
-      "Carbohydrate"
+      "1991",
+      "1993",
+      "1995",
+      "1997"
     ],
-    "correctAnswer": "Polyphenol"
+    "correctAnswer": "1995"
   },
   {
     "ID": 57,
-    "question": "Tại sao cà phê có vị đắng? ",
+    "question": "Phong trào Đông Du do ai khởi xướng?",
     "answers": [
-      "Do caffeine và chất chống oxy hóa",
-      "Do lượng đường trong hạt cà phê",
-      "Do chất béo trong hạt cà phê",
-      "Do nhiệt độ nước quá cao khi pha"
+      "Phan Bội Châu",
+      "Phan Châu Trinh",
+      "Nguyễn Tất Thành",
+      "Nguyễn An Ninh"
     ],
-    "correctAnswer": "Do caffeine và chất chống oxy hóa"
+    "correctAnswer": "Phan Bội Châu"
   },
   {
     "ID": 58,
-    "question": "Chất hóa học nào trong cà phê giúp kích thích hệ thần kinh?",
+    "question": "Ai là người viết \"Bản án chế độ thực dân Pháp\"",
     "answers": [
-      "Tannin",
-      "Caffeine",
-      "Polyphenol",
-      "Axit citric"
+      "Lê Duẩn",
+      "Nguyễn Ái Quốc",
+      "Trường Chinh",
+      "Tôn Đức Thắng"
     ],
-    "correctAnswer": "Caffeine"
+    "correctAnswer": "Nguyễn Ái Quốc"
   },
   {
     "ID": 59,
-    "question": "Uống trà xanh hàng ngày mang lại lợi ích gì cho sức khỏe?",
+    "question": "Phong trào Cần Vương diễn ra vào khoảng thời gian nào?",
     "answers": [
-      "Hỗ trợ tiêu hóa",
-      "Giúp giảm căng thẳng",
-      "Tăng cường khả năng chống oxy hóa",
-      "Tất cả các đáp án trên"
+      "1860–1870",
+      "1870–1880",
+      "1885–1896",
+      "1890–1900"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "1885–1896"
   },
   {
     "ID": 60,
-    "question": "Chất polyphenol trong trà xanh có tác dụng gì đối với cơ thể?",
+    "question": "Đường Trường Sơn còn được gọi là gì?",
     "answers": [
-      "Ngăn ngừa lão hóa",
-      "Tăng cường trí nhớ",
-      "Hỗ trợ kiểm soát cân nặng",
-      "Tất cả các đáp án trên"
+      "Đường Hồ Chí Minh",
+      "Đường sắt Bắc Nam",
+      "Đường mòn Tây Nguyên",
+      "Đường Biên giới"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "Đường Hồ Chí Minh"
   },
   {
     "ID": 61,
-    "question": "Topping như trân châu đen có thể được làm từ nguyên liệu tự nhiên nào?",
+    "question": "Cách mạng tháng Tám diễn ra vào năm nào?",
     "answers": [
-      "Bột năng",
-      "Bột gạo",
-      "Than tre hoạt tính",
-      "Tất cả các đáp án trên"
+      "1930",
+      "1941",
+      "1945",
+      "1946"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "1945"
   },
   {
     "ID": 62,
-    "question": "Công thức hóa học của đường sucrose là gì?",
+    "question": "Ai là Chủ tịch nước đầu tiên của nước Việt Nam Dân chủ Cộng hòa?",
     "answers": [
-      "C6H12O6 (Glucose)",
-      "C12H22O11 ",
-      "C2H5OH (Ethanol)",
-      "CH4 (Methane)"
+      "Võ Nguyên Giáp",
+      "Hồ Chí Minh",
+      "Phạm Văn Đồng",
+      "Trường Chinh"
     ],
-    "correctAnswer": "C12H22O11 "
+    "correctAnswer": "Hồ Chí Minh"
   },
   {
     "ID": 63,
-    "question": "Khu du lịch sinh thái nổi tiếng nào nằm ở Trảng Bom ",
+    "question": "Sự kiện đánh dấu Mỹ can thiệp trực tiếp vào chiến tranh Việt Nam là gì?",
     "answers": [
-      "Khu du lịch Suối Mơ",
-      "Khu du lịch Thác Giang Điền",
-      "Khu du lịch Bò Cạp Vàng",
-      "Khu du lịch Hồ Trị An"
+      "Hiệp định Geneva",
+      "Sự kiện Vịnh Bắc Bộ",
+      "Tổng tiến công Mậu Thân",
+      "Chiến dịch Điện Biên Phủ"
     ],
-    "correctAnswer": "Khu du lịch Thác Giang Điền"
+    "correctAnswer": "Sự kiện Vịnh Bắc Bộ"
   },
   {
     "ID": 64,
-    "question": "Hồ lớn nằm ở huyện Trảng Bom mang lại lợi ích thủy lợi và du lịch là hồ nào?",
+    "question": "Tổng tiến công Tết Mậu Thân diễn ra vào năm nào?",
     "answers": [
-      "Hồ Trị An",
-      "Hồ Dầu Tiếng",
-      "Hồ Ba Bể",
-      "Hồ Phú Ninh"
+      "1966",
+      "1967",
+      "1968",
+      "1969"
     ],
-    "correctAnswer": "Hồ Trị An"
+    "correctAnswer": "1968"
   },
   {
     "ID": 65,
-    "question": "Khu công nghiệp lớn nào nằm tại Trảng Bom, góp phần thúc đẩy kinh tế khu vực?",
+    "question": "Ai là người đặt nền móng cho hệ thống giáo dục quốc dân thời Việt Minh?",
     "answers": [
-      "Khu công nghiệp Amata",
-      "Khu công nghiệp Sông Mây",
-      "Khu công nghiệp Long Thành",
-      "Khu công nghiệp Biên Hòa"
+      "Nguyễn Lương Bằng",
+      "Hồ Chí Minh",
+      "Võ Nguyên Giáp",
+      "Nguyễn Văn Tố"
     ],
-    "correctAnswer": "Khu công nghiệp Sông Mây"
+    "correctAnswer": "Nguyễn Văn Tố"
   },
   {
     "ID": 66,
-    "question": "Vườn quốc gia nào tại Đồng Nai được UNESCO công nhận là khu dự trữ sinh quyển thế giới?",
+    "question": "Thành lập chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa vào năm nào?",
     "answers": [
-      "Vườn quốc gia Bù Gia Mập",
-      "Vườn quốc gia Cát Tiên",
-      "Vườn quốc gia Yok Đôn",
-      "Vườn quốc gia U Minh Thượng"
+      "1941",
+      "1945",
+      "1946",
+      "1954"
     ],
-    "correctAnswer": "Vườn quốc gia Cát Tiên"
+    "correctAnswer": "1945"
   },
   {
     "ID": 67,
-    "question": "Màu sắc chủ đạo của quán Monatea Cafe là màu gì?",
+    "question": "Bài thơ “Nam quốc sơn hà” được cho là của ai?",
     "answers": [
-      "Xanh dương, trắng và hồng",
-      "Đỏ và đen",
-      "Xanh lá, trắng và hồng",
-      "Xanh lá và trắng"
+      "Lê Hoàn",
+      "Lý Thường Kiệt",
+      "Trần Hưng Đạo",
+      "Nguyễn Trãi"
     ],
-    "correctAnswer": "Xanh lá và trắng"
+    "correctAnswer": "Lý Thường Kiệt"
   },
   {
     "ID": 68,
-    "question": "Monatea có bao nhiêu tượng ở trong quán?",
+    "question": "Cụm từ “Di chúc Bác Hồ” viết trong khoảng thời gian nào?",
     "answers": [
-      "2",
-      "3",
-      "4"
+      "1965–1967",
+      "1965–1969",
+      "1966–1969",
+      "1968–1969"
     ],
-    "correctAnswer": "5"
+    "correctAnswer": "1965–1969"
   },
   {
     "ID": 69,
-    "question": "Địa chỉ của quán Monatea Cafe nằm ở đâu ",
+    "question": "Phong trào “Học tập và làm theo tấm gương đạo đức Hồ Chí Minh” bắt đầu từ năm nào",
     "answers": [
-      "14A Võ Nguyên Giáp, Trảng Bom, Đồng Nai",
-      "198A Hoàng Nam, Trảng Bom, Đồng Nai",
-      "205 Võ Thị Sáu, Trảng Bom, Đồng Nai",
-      "123A Cát Mét, Trảng Bom, Đồng Nai"
+      "2005",
+      "2006",
+      "2007",
+      "2008"
     ],
-    "correctAnswer": "14A Võ Nguyên Giáp, Trảng Bom, Đồng Nai"
+    "correctAnswer": "2006"
   },
   {
     "ID": 70,
-    "question": "Mong muốn của quán Monatea Cafe đến cho mọi người là gì?",
+    "question": "Quân đội nhân dân Việt Nam thành lập vào ngày nào?",
     "answers": [
-      "Tạo không gian an toàn, mát mẻ và dễ chịu cho mọi người",
-      "Tạo sự gần gũi, kết nối giữa con người và con người",
+      "19/8",
+      "20/12",
       "Tạo cảm giác yên bình và sự gắn kết với thiên nhiên",
       "Tất cả các đáp án trên"
     ],
@@ -770,343 +771,343 @@
   },
   {
     "ID": 71,
-    "question": "Monatea Cafe đã xuất hiện trên trang mạng xã hội nào?",
+    "question": "Tổng tư lệnh đầu tiên của Quân đội Nhân dân Việt Nam là ai?",
     "answers": [
-      "Facebook",
-      "Instagram",
-      "Tiktok",
-      "Tất cả các đáp án trên"
+      "Lê Duẩn",
+      "Trường Chinh",
+      "Võ Nguyên Giáp",
+      "Nguyễn Chí Thanh"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "Võ Nguyên Giáp"
   },
   {
     "ID": 72,
-    "question": "Ai là người thiết kế nội thất của quán Monatea Cafe?",
+    "question": "Câu nói “Thà hy sinh tất cả chứ nhất định không chịu mất nước” xuất phát từ lời kêu gọi nào?",
     "answers": [
-      "Một kiến trúc sư",
-      "Một người thân của chủ quán",
-      "Một công ty thiết kế chuyên nghiệp",
-      "Chủ quán tự thiết kế"
+      "Toàn quốc kháng chiến",
+      "Cách mạng tháng Tám",
+      "Phong trào Cần Vương",
+      "Chiến thắng Điện Biên Phủ"
     ],
-    "correctAnswer": "Một kiến trúc sư"
+    "correctAnswer": "Toàn quốc kháng chiến"
   },
   {
     "ID": 73,
-    "question": "What is the brand name?",
+    "question": "Năm 1941, Nguyễn Ái Quốc về nước tại đâu?",
     "answers": [
-      "Monatea Cafe",
-      "Monatea",
-      "Montea ",
-      "Monatra Caphe"
+      "Hà Giang",
+      "Lạng Sơn",
+      "Cao Bằng",
+      "Tuyên Quang"
     ],
-    "correctAnswer": "Monatea Cafe"
+    "correctAnswer": "Cao Bằng"
   },
   {
     "ID": 74,
-    "question": "Loại nước nào hiện có trong menu của Monatea Cafe",
+    "question": "Kế hoạch Nava được thực dân Pháp thực hiện vào giai đoạn nào?",
     "answers": [
-      "Trà kiwi nho",
-      "Trà lựu mâm sôi",
-      "Cafe Đen Đá",
-      "Tất cả các đáp án trên"
+      "1950–1951",
+      "1951–1952",
+      "1953–1954",
+      "1954–1955"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "1953–1954"
   },
   {
     "ID": 75,
-    "question": "Các loại nước trong menu của Monatea Cafe mang đến hương vị nào đặc trưng?",
+    "question": "Tuyên ngôn độc lập 1945 được Hồ Chí Minh soạn thảo tại đâu?",
     "answers": [
-      "Hương trà thanh mát",
-      "Hương trái cây tươi ngon",
-      "Hương trà sữa béo ngậy",
-      "Tất cả các đáp án trên"
+      "Bắc Bộ Phủ",
+      "48 Hàng Ngang",
+      "Phủ Chủ tịch",
+      "Nhà 67"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "48 Hàng Ngang"
   },
   {
     "ID": 76,
-    "question": "Ai là người phát triển và hoàn thiện nghi lễ trà đạo Nhật Bản, đặc biệt là việc sử dụng matcha?",
+    "question": "Quốc hiệu “Đại Cồ Việt” được sử dụng dưới triều đại nào?",
     "answers": [
-      "Tokugawa Ieyasu",
-      "Sen no Rikyū",
-      "Oda Nobunaga",
-      "Toyotomi Hideyoshi"
+      "Đinh",
+      "Tiền Lê",
+      "Lý",
+      "Ngô"
     ],
-    "correctAnswer": "Sen no Rikyū"
+    "correctAnswer": "Đinh"
   },
   {
     "ID": 77,
-    "question": "Monatea Cafe có bao nhiêu chữ?",
+    "question": "Chiến dịch phản công lớn nhất của ta trong cuộc kháng chiến chống Mỹ là?",
     "answers": [
-      "11 chữ",
-      "10 chữ",
-      "9 chữ",
-      "8 chữ"
+      "Tổng tiến công Mậu Thân",
+      "Chiến dịch Tây Nguyên",
+      "Chiến dịch Hồ Chí Minh",
+      "Chiến dịch Đường 9 – Nam Lào"
     ],
-    "correctAnswer": "11 chữ"
+    "correctAnswer": "Tổng tiến công Mậu Thân"
   },
   {
     "ID": 78,
-    "question": "Mùi vị của cà phê chưa qua chế biến có đặc điểm gì?",
+    "question": "Chiến thắng nào giúp chấm dứt hoàn toàn ách đô hộ phương Bắc hơn 1000 năm?",
     "answers": [
-      "Mùi thơm đậm, giống mùi cà phê rang",
-      "Mùi giống thảo mộc, nhẹ nhàng",
-      "Mùi chua mạnh",
-      "Mùi đắng mạnh và gắt"
+      "Chiến thắng Bạch Đằng (938)",
+      "Chiến thắng Rạch Gầm – Xoài Mút",
+      "Khởi nghĩa Lam Sơn",
+      "Chiến dịch Điện Biên Phủ"
     ],
-    "correctAnswer": "Mùi giống thảo mộc, nhẹ nhàng"
+    "correctAnswer": "Chiến thắng Bạch Đằng (938)"
   },
   {
     "ID": 79,
-    "question": "Band nhạc chơi ở Monatea có bao nhiêu thành viên?",
+    "question": "Chính thể quân chủ chuyên chế đạt đến đỉnh cao dưới thời vua nào?",
     "answers": [
-      "5",
-      "8",
-      "6",
-      "9"
+      "Lê Thánh Tông",
+      "Trần Nhân Tông",
+      "Gia Long",
+      "Tự Đức"
     ],
-    "correctAnswer": "6"
+    "correctAnswer": "Lê Thánh Tông"
   },
   {
     "ID": 80,
-    "question": "Monatea Cafe có không gian mát từ máy lạnh hay không?",
+    "question": "Ai là người chỉ huy trận Chi Lăng năm 1427?",
     "answers": [
-      "Có",
-      "Không",
-      "Sẽ có trong thời gian tới",
-      "Chỉ sử dụng quạt"
+      "Nguyễn Trãi",
+      "Trần Nguyên Hãn",
+      "Lê Lợi",
+      "Lý Bôn"
     ],
-    "correctAnswer": "Có"
+    "correctAnswer": "Trần Nguyên Hãn"
   },
   {
     "ID": 81,
-    "question": "Tên quán Monatea Cafe có bao nhiêu từ?",
+    "question": "Chữ Hán trên cờ đỏ sao vàng đầu tiên có nghĩa là gì?",
     "answers": [
+      "Độc lập – Tự do",
+      "Cách mạng",
+      "Xã hội chủ nghĩa",
+      "Giải phóng"
+    ],
+    "correctAnswer": "Giải phóng"
+  },
+  {
+    "ID": 82,
+    "question": "“Bình Ngô đại cáo” được xem là bản tuyên ngôn độc lập lần thứ mấy?",
+    "answers": [
+      "1",
       "2",
       "3",
-      "4",
-      "5"
+      "4"
     ],
     "correctAnswer": "2"
   },
   {
-    "ID": 82,
-    "question": "Quán Monatea toạ lạc ở tỉnh nào?",
-    "answers": [
-      "Đồng Nai",
-      "Biên Hoà",
-      "Trảng Bom",
-      "TP Hồ Chí Minh"
-    ],
-    "correctAnswer": "Đồng Nai"
-  },
-  {
     "ID": 83,
-    "question": "Tết Nguyên Đán (Tết Âm Lịch) năm 2025 vào ngày mấy?",
+    "question": "Hiệp định Giơ-ne-vơ được ký vào ngày nào?",
     "answers": [
-      "Ngày 29 tháng 1",
-      "Ngày 30 tháng 1",
-      "Ngày 1 tháng 1",
-      "Ngày 31 tháng 1"
+      "7/5/1954",
+      "21/7/1954",
+      "30/4/1955",
+      "2/9/1954"
     ],
-    "correctAnswer": "Ngày 29 tháng 1"
+    "correctAnswer": "21/7/1954"
   },
   {
     "ID": 84,
-    "question": "Ngày Tết Nguyên Đán thường được coi là ngày đầu năm của người Việt, bạn thường làm gì vào ngày Mùng 1 Tết?",
+    "question": "Chiến lược “Chiến tranh cục bộ” của Mỹ được triển khai giai đoạn nào?",
     "answers": [
-      "Thăm bà con, bạn bè",
-      "Đón khách, chúc Tết",
-      "Dọn dẹp nhà cửa",
-      "Tất cả các đáp án trên"
+      "1961–1965",
+      "1965–1968",
+      "1968–1972",
+      "1973–1975"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "1965–1968"
   },
   {
     "ID": 85,
-    "question": "Theo truyền thống, món ăn nào không thể thiếu trong mâm cỗ Tết của người Việt?",
+    "question": "Kỳ họp đầu tiên của Quốc hội nước Việt Nam Dân chủ Cộng hòa diễn ra vào năm nào?",
     "answers": [
-      "Bánh chưng (Bánh tét)",
-      "Bánh mì",
-      "Cơm gà",
-      "Xôi"
+      "1945",
+      "1946",
+      "1947",
+      "1948"
     ],
-    "correctAnswer": "Bánh chưng (Bánh tét)"
+    "correctAnswer": "1946"
   },
   {
     "ID": 86,
-    "question": "Màu sắc của bao lì xì trong dịp Tết thường là gì?",
+    "question": "Ai là Tổng Bí thư của Đảng sau khi Trần Phú hy sinh?",
     "answers": [
-      "Màu đỏ",
-      "Màu vàng",
-      "Màu xanh dương",
-      "Màu trắng"
+      "Hà Huy Tập",
+      "Nguyễn Văn Cừ",
+      "Lê Hồng Phong",
+      "Trường Chinh"
     ],
-    "correctAnswer": "Màu đỏ"
+    "correctAnswer": "Hà Huy Tập"
   },
   {
     "ID": 87,
-    "question": "Lý do người Việt ăn bánh chưng (hoặc bánh tét) vào dịp Tết là gì?",
+    "question": "Chiến thắng nào là cú đòn đánh vào ý chí xâm lược của Mỹ mạnh nhất?",
     "answers": [
-      "Biểu tượng cho đất trời, trời đất bao la",
-      "Để tưởng nhớ tổ tiên",
-      "Để ăn mừng",
-      "Tất cả các đáp án trên"
+      "Chiến dịch Điện Biên Phủ",
+      "Tổng tiến công Mậu Thân",
+      "Chiến dịch Đường 9 – Nam Lào",
+      "Chiến dịch Hồ Chí Minh"
     ],
-    "correctAnswer": "Tất cả các đáp án trên"
+    "correctAnswer": "Tổng tiến công Mậu Thân"
   },
   {
     "ID": 88,
-    "question": "Nếu ly trà sữa rơi xuống đất, bạn sẽ làm gì?",
+    "question": "Ai là tác giả của \"Hịch tướng sĩ\"?",
     "answers": [
-      "Cúi xuống khóc thương nó",
-      "Nhờ nhân viên làm ly mới",
-      "Hối hận vì cầm không chặt",
-      "Dọn dẹp và rút kinh nghiệm"
+      "Lý Thường Kiệt",
+      "Trần Hưng Đạo",
+      "Nguyễn Trãi",
+      "Nguyễn Huệ"
     ],
-    "correctAnswer": "Dọn dẹp và rút kinh nghiệm"
+    "correctAnswer": "Trần Hưng Đạo"
   },
   {
     "ID": 89,
-    "question": "Nếu bạn nhắm mắt uống trà sữa, điều gì sẽ xảy ra?",
+    "question": "Địa danh nào không thuộc chiến dịch Điện Biên Phủ?",
     "answers": [
-      "Bạn sẽ uống nhầm vào không khí",
-      "Bạn sẽ cảm nhận vị ngon hơn",
-      "Topping có thể chui vào mũi",
-      "Trà sữa tự nhiên hết nhanh hơn"
+      "Him Lam",
+      "Độc Lập",
+      "Hồng Cúm",
+      "Tân Trào"
     ],
-    "correctAnswer": "Bạn sẽ cảm nhận vị ngon hơn"
+    "correctAnswer": "Tân Trào"
   },
   {
     "ID": 90,
-    "question": "Nếu bạn đặt ly trà sữa dưới ánh nắng quá lâu, điều gì sẽ xảy ra?",
+    "question": "Sự kiện nào mở đầu Cách mạng tháng Tám?",
     "answers": [
-      "Đá tan, topping chìm, trà sữa nhạt nhẽo",
-      "Trà sữa đổi màu kỳ lạ",
-      "Ly trà sữa phát sáng như mặt trời",
-      "Một ly nước đường thần thánh ra đời"
+      "Tổng khởi nghĩa Hà Nội",
+      "Tổng khởi nghĩa Huế",
+      "Tổng khởi nghĩa Sài Gòn",
+      "Khởi nghĩa ở Thái Nguyên"
     ],
-    "correctAnswer": "Đá tan, topping chìm, trà sữa nhạt nhẽo"
+    "correctAnswer": "Tổng khởi nghĩa Hà Nội"
   },
   {
     "ID": 91,
-    "question": "Câu hỏi miễn phí, cảm ơn bạn đã dành thời gian đến quán Monatea Cafe! Xin chúc bạn có một năm mới thật tốt lành!",
+    "question": "Người được mệnh danh là \"nhà ngoại giao lỗi lạc\" thời Lê sơ là ai?",
     "answers": [
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách"
+      "Lê Thánh Tông",
+      "Nguyễn Trãi",
+      "Nguyễn Bỉnh Khiêm",
+      "Lê Quý Đôn"
     ],
-    "correctAnswer": "Cảm ơn quý khách"
+    "correctAnswer": "Nguyễn Trãi"
   },
   {
     "ID": 92,
-    "question": "Câu hỏi miễn phí, cảm ơn bạn đã dành thời gian đến quán Monatea Cafe! Xin chúc bạn nhiều thành công trong năm nay!",
+    "question": "Câu nói nổi tiếng của Lê Lợi sau chiến thắng Lam Sơn là gì?",
     "answers": [
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách",
-      "Cảm ơn quý khách"
+      "“Bình Ngô đại cáo”",
+      "“Lấy đại nghĩa thắng hung tàn…”",
+      "Vì dân trừ loạn”",
+      "“Đem đại nghĩa để thắng hung tàn”"
     ],
-    "correctAnswer": "Cảm ơn quý khách"
+    "correctAnswer": "“Đem đại nghĩa để thắng hung tàn”"
   },
   {
     "ID": 93,
-    "question": "Nếu bạn vào quán Monatea Cafe thấy rác, bạn sẽ làm gì?",
+    "question": "Nguyễn Trãi bị oan trong vụ án nào?",
     "answers": [
-      "Lụm rác bỏ vào thùng rác",
-      "Quay mặt bỏ mặc đi",
-      "Tố cáo nhân viên ",
-      "Up lên story "
+      "Vụ án Lệ Chi Viên",
+      "Vụ án Thái Giám",
+      "Vụ án Chiêm Thành",
+      "Vụ án Đào Duy Từ"
     ],
-    "correctAnswer": "Lụm rác bỏ vào thùng rác"
+    "correctAnswer": "Vụ án Lệ Chi Viên"
   },
   {
     "ID": 94,
-    "question": "Trà sữa không thể thiếu thứ gì",
+    "question": "Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày nào?",
     "answers": [
-      "Trân châu",
-      "Đường",
-      "Ly đựng",
-      "Người uống"
+      "22/12/1944",
+      "20/12/1945",
+      "2/9/1944",
+      "3/2/1944"
     ],
-    "correctAnswer": "Người uống"
+    "correctAnswer": "22/12/1944"
   },
   {
     "ID": 95,
-    "question": "Nếu có một con mèo rơi vào ly trà sữa, bạn sẽ làm gì?",
+    "question": "Chiến lược “Việt Nam hóa chiến tranh” được Mỹ đưa ra vào năm nào?",
     "answers": [
-      "Vớt mèo lên rồi bỏ ly đi",
-      "Gọi nhân viên giúp đỡ",
-      "Ngừng uống và nuôi luôn con mèo",
-      "Chụp ảnh post lên Facebook"
+      "1967",
+      "1968",
+      "1969",
+      "1970"
     ],
-    "correctAnswer": "Vớt mèo lên rồi bỏ ly đi"
+    "correctAnswer": "1969"
   },
   {
     "ID": 96,
-    "question": "Bạn sẽ làm gì nếu phát hiện ly trà sữa không có nắp?",
+    "question": "Người Việt Nam đầu tiên được UNESCO vinh danh là danh nhân văn hóa thế giới?",
     "answers": [
-      "Dùng tay che miệng ly",
-      "Nhờ quán lấy nắp khác",
-      "Uống thật cẩn thận để không đổ",
-      "Coi như đang uống nước dừa"
+      "Hồ Chí Minh",
+      "Nguyễn Du",
+      "Nguyễn Trãi",
+      "Lê Quý Đôn"
     ],
-    "correctAnswer": "Nhờ quán lấy nắp khác"
+    "correctAnswer": "Nguyễn Trãi"
   },
   {
     "ID": 97,
-    "question": "Nếu Monatea Cafe tổ chức thi uống trà sữa nhanh, ai sẽ thắng?",
+    "question": "Ai là Chủ tịch Quốc hội đầu tiên của nước ta?",
     "answers": [
-      "Người không thích topping",
-      "Người có kinh nghiệm uống nhanh",
-      "Người dùng ống hút to hơn bình thường",
-      "Người không thi mà lấy phần thưởng luôn"
+      "Trường Chinh",
+      "Nguyễn Văn Cừ",
+      "Tôn Đức Thắng",
+      "Nguyễn Hữu Thọ"
     ],
-    "correctAnswer": "Người có kinh nghiệm uống nhanh"
+    "correctAnswer": "Trường Chinh"
   },
   {
     "ID": 98,
-    "question": "Ly trà sữa cỡ lớn thông thường có dung tích khoảng bao nhiêu ml?",
+    "question": "Tác phẩm “Dư địa chí” của Lê Quý Đôn phản ánh điều gì?",
     "answers": [
-      "300ml",
-      "500 ml",
-      "700ml",
-      "1000ml"
+      "Pháp luật thời Lê",
+      "Tình hình quân sự",
+      "Tình hình địa lý – xã hội",
+      "Lịch sử chiến tranh"
     ],
-    "correctAnswer": "700ml"
+    "correctAnswer": "Tình hình địa lý – xã hội"
   },
   {
     "ID": 99,
-    "question": "Thành phần nào không liên quan đến trà sữa Monatea?",
+    "question": "Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa gồm bao nhiêu bộ?",
     "answers": [
-      "Sữa tươi",
-      "Nước lọc",
-      "Lá trà",
-      "Nước mắm"
+      "10",
+      "11",
+      "12",
+      "13"
     ],
-    "correctAnswer": "Nước mắm"
+    "correctAnswer": "13"
   },
   {
     "ID": 100,
-    "question": "Nếu uống 10 ly trà sữa liên tiếp, bạn sẽ làm gì tiếp theo?",
+    "question": "Cơ quan tuyên truyền đầu tiên của Đảng Cộng sản Việt Nam là gì?",
     "answers": [
-      "Đi ngủ",
-      "Đi tập thể dục",
-      "Đi bác sĩ",
-      "Đi hỏi ai trả tiền"
+      "Báo Nhân Dân",
+      "Tạp chí Cộng sản",
+      "Đoàn thanh niên cứu quốc",
+      "Báo Thanh niên"
     ],
-    "correctAnswer": "Đi hỏi ai trả tiền"
+    "correctAnswer": "Báo Thanh niên"
   },
   {
     "ID": 101,
-    "question": "Quán Monatea có bao nhiêu loại đèn?",
+    "question": "Thủ đô của nước Việt Nam Dân chủ Cộng hòa được công bố sau Cách mạng tháng Tám là thành phố nào?",
     "answers": [
-      "2",
-      "4",
-      "3",
-      "10"
+      "Huế",
+      "Sài Gòn",
+      "Hà Nội",
+      "Hải Phòng"
     ],
-    "correctAnswer": "10"
+    "correctAnswer": "Hà Nội"
   }
 ]

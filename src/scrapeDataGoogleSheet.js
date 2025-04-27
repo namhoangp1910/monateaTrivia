@@ -10,7 +10,7 @@ const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 // created automatically when the authorization flow completes for the first
 // time.
 const TOKEN_PATH = path.join(process.cwd(), 'token.json');
-const CREDENTIALS_PATH = path.join(process.cwd(), './src/credentials.json');
+const CREDENTIALS_PATH = path.join(process.cwd(), './credentials.json');
 
 /**
  * Reads previously authorized credentials from the save file.
@@ -107,7 +107,7 @@ async function listMajors(auth) {
 
 async function writeToFile(data) {
   const json = JSON.stringify(data, null, 2);
-  fs.writeFile('./src/components/TriviaQuestions.json', json, 'utf8');
+  fs.writeFile('./components/TriviaQuestions.json', json, 'utf8');
 }
 
 authorize().then(listMajors).catch(console.error);
